@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Seraphine F. Maerz"
+
+  page-footer:
+    left: "&copy; Copyright 2024, Seraphine F. Maerz"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  navbar:
+    pinned: true
+    align: center
+    style: "docked"
+    right:
+      - text: "Publications"
+        href: publications/index.qmd
+
+      - text: "Research projects"
+        href: projects/index.qmd
+
+      - text: "Datasets"
+        href: datasets/index.qmd
+        
+      - text: "Teaching"
+        href: teaching/index.qmd
+
+
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: false
+
+

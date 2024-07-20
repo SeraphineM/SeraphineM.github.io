@@ -1,0 +1,43 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/post-with-code/index.html",
+      "/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talk_1/index.html",
+      "/talks/talk_2/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/project_1/index.html",
+      "/projects/project_2/index.html",
+      "/projects/pkg_1/index.html",
+      "/projects/pkg_2/index.html"
+    ]
+  },
+  {
+    "listing": "/datasets/index.html",
+    "items": [
+      "/datasets/project_1/index.html",
+      "/datasets/project_2/index.html",
+      "/datasets/pkg_1/index.html",
+      "/datasets/pkg_2/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/project_1/index.html",
+      "/teaching/project_2/index.html",
+      "/teaching/pkg_1/index.html",
+      "/teaching/pkg_2/index.html"
+    ]
+  }
+]

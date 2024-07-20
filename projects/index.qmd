@@ -1,0 +1,32 @@
+---
+title: "Research projects"
+---
+
+\
+
+## Smart Authoritarianism? Comparing the Internet Strategies of Authoritarian Regimes
+
+I am Principal Investigator and Project Leader of a project on authoritarian Internet strategies, the project is funded by the [German Research Foundation (DFG](https://www.dfg.de/en/index.jsp)) and affiliated with the Institute of Political Science at the Goethe University Frankfurt (Germany), see also [here](https://www.fb03.uni-frankfurt.de/108463498/Schwerpunkt_Methoden_der_Qualitativen_Empirischen_Sozialforschung).
+Together with my team and in collaboration with Tina Freyburg (University of St. Gallen) and Lisa Garbe (WZB), we are currently collecting data on ownership
+structures of Internet Service Providers (ISPs), more information [here](https://tosco.shinyapps.io/data/).
+
+\
+
+## Neo-Authoritarianism in Europe and the Liberal Democratic Response (AUTHLIB)
+
+I am a participating researcher in the EU Horizon Europe project AUTHLIB.
+The project is coordinated by the Central European University (CEU),
+other participating institutions are Charles University, German Marshall
+Fund, Sciences Po, Scuola Normale Superiore, University of Social
+Sciences and Humanities in Warsaw, University of Oxford, and the
+University of Vienna. See also the [project's website](http://www.authlib.eu/).
+
+\
+
+## Pandemic Backsliding: Democracy during COVID-19
+
+I am Principal Investigator (together with Anna Lührmann, Amanda B.
+Edgell, and Jean Lachapelle) of a project on violations of democratic
+standards for emergency responses during the COVID-19 pandemic, the
+project was funded by the Swedish Ministry of Foreign Affairs
+(2020/2021). For further information about this project, see [here.](https://www.v-dem.net/pandem.html)

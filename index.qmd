@@ -1,0 +1,37 @@
+---
+title: "Dr. Seraphine F. Maerz"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - text: Download CV
+      href: https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/SeraphineMaerz
+    - icon: github
+      text: GitHub
+      href: https://github.com/SeraphineM
+    - icon: googlescholar
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de
+    - icon: envelope
+      href: mailto:seraphine.maerz@unimelb.edu.au
+  
+---
+
+::: {#hero-heading}
+
+# Welcome!
+
+I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). Before, I held positions at the Goethe [University in Frankfurt am Main](https://www.goethe-university-frankfurt.de/en?locale=en), Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I am Principal Investigator and Project Leader of the DFG-funded project on [Smart Authoritarianism?](projects/index.qmd) Comparing the Internet Strategies of Authoritarian Regimes. 
+
+My research interests are:
+
+- Democracy, authoritarianism, regime change
+- Political communication, Internet politics
+- Quantitative methods
+
+:::
