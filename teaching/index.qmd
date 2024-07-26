@@ -4,7 +4,7 @@ image: Teaching.png
 ---
 
 
--   **Communicating Social Science Research,** Winter 2024, BA course, School of Social and Political Science, University of Melbourne.
+-   **Communicating Social Science Research,** Winter 2024, BA Honours course, School of Social and Political Science, University of Melbourne.
 
 -   **Researching Politics and Policy,** Autumn 2024, PhD course, School of Social and Political Science, University of Melbourne.
 

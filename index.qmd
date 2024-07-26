@@ -26,12 +26,12 @@ about:
 
 # Welcome!
 
-I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). Before, I held positions at the Goethe [University in Frankfurt am Main](https://www.goethe-university-frankfurt.de/en?locale=en), Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I am Principal Investigator and Project Leader of the DFG-funded project on [Smart Authoritarianism?](projects/index.qmd) Comparing the Internet Strategies of Authoritarian Regimes. 
+I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). Before, I held positions at the [Goethe University](https://www.goethe-university-frankfurt.de/en?locale=en) in Frankfurt am Main, Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I am Principal Investigator and Project Leader of the DFG-funded project on [digital authoritarianism](projects/index.qmd). The different sections of this website provide an overview of my [publications](publications/index.qmd), [research projects](projects/index.qmd), [datasets](datasets/index.qmd), and [teaching experience](teaching/index.qmd). You find [my CV here](https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view). 
 
 My research interests are:
 
 - Democracy, authoritarianism, regime change
-- Political communication, Internet politics
+- Political communication, internet politics
 - Quantitative methods
 
 I am co-founder of [QuantLab](https:quantilab.github.io).

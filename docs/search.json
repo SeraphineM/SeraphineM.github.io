@@ -1,171 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr. Seraphine F. Maerz",
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching experience",
     "section": "",
-    "text": "Download CV\n  \n  \n    \n     Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     GoogleScholar\n  \n  \n    \n     \n  \n\n  \n  \n\nWelcome!\nI am a Lecturer in Political Science (Research Methods) at the University of Melbourne. Before, I held positions at the Goethe University in Frankfurt am Main, Germany, and the Varieties of Democracy (V-Dem) Institute in Gothenburg, Sweden. I am Principal Investigator and Project Leader of the DFG-funded project on Smart Authoritarianism? Comparing the Internet Strategies of Authoritarian Regimes.\nMy research interests are:\n\nDemocracy, authoritarianism, regime change\nPolitical communication, Internet politics\nQuantitative methods\n\nI am co-founder of QuantLab."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Author",
-    "section": "",
-    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records.\n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Author",
-    "section": "",
-    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Author",
-    "section": "",
-    "text": "I have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "blog/post-with-code/index.html",
-    "href": "blog/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks/index.html#rstats",
-    "href": "talks/index.html#rstats",
-    "title": "Talks",
-    "section": "",
-    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks/index.html#electronic-health-records",
-    "href": "talks/index.html#electronic-health-records",
-    "title": "Talks",
-    "section": "Electronic Health Records",
-    "text": "Electronic Health Records\n\n\n\n\n  \n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/pkg_2/index.html",
-    "href": "projects/pkg_2/index.html",
-    "title": "pkg_2",
-    "section": "",
-    "text": "This package does this."
-  },
-  {
-    "objectID": "projects/pkg_1/index.html",
-    "href": "projects/pkg_1/index.html",
-    "title": "pkg_1",
-    "section": "",
-    "text": "This package does this."
-  },
-  {
-    "objectID": "projects/project_2/index.html",
-    "href": "projects/project_2/index.html",
-    "title": "project_2",
-    "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Research projects",
-    "section": "",
-    "text": "I am Principal Investigator and Project Leader of a project on authoritarian Internet strategies, the project is funded by the German Research Foundation (DFG) and affiliated with the Institute of Political Science at the Goethe University Frankfurt (Germany), see also here. Together with my team and in collaboration with Tina Freyburg (University of St. Gallen) and Lisa Garbe (WZB), we are currently collecting data on ownership structures of Internet Service Providers (ISPs), more information here."
-  },
-  {
-    "objectID": "projects/index.html#grid-listing",
-    "href": "projects/index.html#grid-listing",
-    "title": "Projects",
-    "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/index.html#table-listing",
-    "href": "projects/index.html#table-listing",
-    "title": "Projects",
-    "section": "Table listing",
-    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/project_1/index.html",
-    "href": "projects/project_1/index.html",
-    "title": "project_1",
-    "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
-  },
-  {
-    "objectID": "talks/talk_1/index.html",
-    "href": "talks/talk_1/index.html",
-    "title": "Building Website in R: Step by Step Introduction to blogdown",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "blog/welcome/index.html",
-    "href": "blog/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "about_template.html",
-    "href": "about_template.html",
-    "title": "About this template",
-    "section": "",
-    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
-  },
-  {
-    "objectID": "publications/index.html#electronic-health-records",
-    "href": "publications/index.html#electronic-health-records",
-    "title": "Publications",
-    "section": "Electronic Health Records",
-    "text": "Electronic Health Records"
-  },
-  {
-    "objectID": "teaching/pkg_2/index.html",
-    "href": "teaching/pkg_2/index.html",
-    "title": "pkg_2",
-    "section": "",
-    "text": "This package does this."
-  },
-  {
-    "objectID": "teaching/pkg_1/index.html",
-    "href": "teaching/pkg_1/index.html",
-    "title": "pkg_1",
-    "section": "",
-    "text": "This package does this."
-  },
-  {
-    "objectID": "teaching/project_2/index.html",
-    "href": "teaching/project_2/index.html",
-    "title": "project_2",
-    "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
-  },
-  {
-    "objectID": "datasets/project_1/index.html",
-    "href": "datasets/project_1/index.html",
-    "title": "project_1",
-    "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
+    "text": "Communicating Social Science Research, Winter 2024, BA Honours course, School of Social and Political Science, University of Melbourne.\nResearching Politics and Policy, Autumn 2024, PhD course, School of Social and Political Science, University of Melbourne.\nMeasuring Democracy, Spring 2023, MA course, Institute of Political Science, Goethe University Frankfurt.\nVarieties of Democracy and Democratization, Spring 2020, MA course (co-instructor), V-Dem Institute, Dept. of Political Science, University of Gothenburg.\nIntroduction to Statistics, Spring 2019, BA course, Bard College Berlin.\nIntroduction to Statistics, Fall 2018/2019, BA course, Bard College Berlin.\nMeasuring Democracy and Autocracy (plus Intro to R), Spring 2019, BA course / advanced quantitative methods module, Bard College Berlin.\nSenior Research Colloquium, workshops on research design and methods, Fall 2018, BA course, Bard College Berlin.\nQualitative Methods in Political Science, Summer 2018, MA course, Department of Political Science, University of Freiburg.\nQualitative Comparative Analysis (QCA), Summer 2018, guest lecture in MA course on Quantitative Methods, Department of Political Science, University of Freiburg.\nDemocratization, Authoritarianism, and the Role of Regional Organizations, Winter 2017/2018, BA/MA course, Department of Political Science, University of Freiburg.\nIntroduction to Set Methods and QCA, Nov. 2017, PhD workshop, guest lecture in Prof. Erin K. Jenne’s Research and Methods class, CEU Budapest.\nReserch Design, weekly classes on research methods and techniques for visiting fellows from Myanmar. Oct.-Dec. 2016, CEU Budapest.\nStudies in Comparative Politics, Winter 2015/2016, MA course, Teaching Assistant for Prof. Zsolt Enyedi, CEU Budapest.\nCentral Asia: Local Politics, Regional Dynamics, and the Geopolitics of Energy, Fall 2015, MA course, Teaching Assistant for Prof. Matteo Fumagalli, CEU Budapest.\n\n\n\nFurther Information\nIn 2016, I graduated from the CTL Program for Excellence in Teaching in Higher Education at CEU. Contact me for further material such as my teaching philosophy, sample syllabi, slides or course evaluations."
   },
   {
     "objectID": "datasets/index.html",
@@ -175,74 +14,32 @@
     "text": "I think ShinyApps and dashboards are great tools to explore and interactively work with new datasets which is why we developed the following applications along with our datasets:\n\nThe TOSCO ShinyDashboard (put together with the TOSCO team) provides data on ownership of Internet service providers (ISPs) and several applications to explore these ownership structures and state control over ISPs.\nThe ERT ShinyApp (put together with Sebastian Hellmeier) provides several interactive applications allowing users to flexibly adjust the parameters of the ERT dataset (see below) and test their validity."
   },
   {
-    "objectID": "datasets/index.html#grid-listing",
-    "href": "datasets/index.html#grid-listing",
-    "title": "Projects",
+    "objectID": "datasets/index.html#shinyapps-and-interactive-dashboards-to-explore-our-datasets",
+    "href": "datasets/index.html#shinyapps-and-interactive-dashboards-to-explore-our-datasets",
+    "title": "Datasets",
     "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I think ShinyApps and dashboards are great tools to explore and interactively work with new datasets which is why we developed the following applications along with our datasets:\n\nThe TOSCO ShinyDashboard (put together with the TOSCO team) provides data on ownership of Internet service providers (ISPs) and several applications to explore these ownership structures and state control over ISPs.\nThe ERT ShinyApp (put together with Sebastian Hellmeier) provides several interactive applications allowing users to flexibly adjust the parameters of the ERT dataset (see below) and test their validity."
   },
   {
-    "objectID": "datasets/index.html#table-listing",
-    "href": "datasets/index.html#table-listing",
-    "title": "Projects",
-    "section": "Table listing",
-    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "datasets/index.html#episodes-of-regime-transformation-ert",
+    "href": "datasets/index.html#episodes-of-regime-transformation-ert",
+    "title": "Datasets",
+    "section": "Episodes of Regime Transformation (ERT)",
+    "text": "Episodes of Regime Transformation (ERT)\nIdentifies episodes of democratization (liberalizing autocracy, democratic deepening) and autocratization (democratic regression, autocratic regression) in the most recent V-Dem dataset, the dataset is freely available here. We also provide the ERT R package as a user-friendly tool to flexibly work with the dataset.\nCitation: Edgell, Amanda B., Seraphine F. Maerz, Laura Maxwell, Richard Morgan, Juraj Medzihorsky, Matthew C. Wilson, Vanessa A. Boese, Sebastian Hellmeier, Jean Lachapelle, Patrik Lindenfors, Anna Lührmann, and Staffan I. Lindberg. Episodes of Regime Transformation Dataset (v13.0). Varieties of Democracy (V-Dem) Project, 2024."
   },
   {
-    "objectID": "publications/talk_1/index.html",
-    "href": "publications/talk_1/index.html",
-    "title": "Building Website in R: Step by Step Introduction to blogdown",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "datasets/index.html#pandemic-backsliding",
+    "href": "datasets/index.html#pandemic-backsliding",
+    "title": "Datasets",
+    "section": "Pandemic Backsliding",
+    "text": "Pandemic Backsliding\nThePandemic Backsliding project tracks state responses to Covid-19 and their potential effect on the overall quality of democracy within the country. The current version of the data reflects the situation between March 2020 and June 2021. The data is freely available here, more information about the project here.\nCitation: Edgell, Amanda B., Anna Lührmann, Seraphine F. Maerz, Jean Lachapelle, Sandra Grahn, Ana Flavia Good God, Martin Lundstedt, Natalia Natsika, Palina Kolvani, Paul Bederke, Shreeya Pillai, Stefanie Kaiser, Abdalhadi Alijla, Tiago Fernandes, Hans Tung, Matthew Wilson, and Staffan I. Lindberg. Pandemic Backsliding: Democracy During Covid-19 (PanDem), Version 5, Varieties of Democracy (V-Dem) Project, 2020."
   },
   {
-    "objectID": "datasets/project_2/index.html",
-    "href": "datasets/project_2/index.html",
-    "title": "project_2",
-    "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
-  },
-  {
-    "objectID": "datasets/pkg_1/index.html",
-    "href": "datasets/pkg_1/index.html",
-    "title": "pkg_1",
-    "section": "",
-    "text": "This package does this."
-  },
-  {
-    "objectID": "datasets/pkg_2/index.html",
-    "href": "datasets/pkg_2/index.html",
-    "title": "pkg_2",
-    "section": "",
-    "text": "This package does this."
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching experience",
-    "section": "",
-    "text": "Communicating Social Science Research, Winter 2024, BA course, School of Social and Political Science, University of Melbourne.\nResearching Politics and Policy, Autumn 2024, PhD course, School of Social and Political Science, University of Melbourne.\nMeasuring Democracy, Spring 2023, MA course, Institute of Political Science, Goethe University Frankfurt.\nVarieties of Democracy and Democratization, Spring 2020, MA course (co-instructor), V-Dem Institute, Dept. of Political Science, University of Gothenburg.\nIntroduction to Statistics, Spring 2019, BA course, Bard College Berlin.\nIntroduction to Statistics, Fall 2018/2019, BA course, Bard College Berlin.\nMeasuring Democracy and Autocracy (plus Intro to R), Spring 2019, BA course / advanced quantitative methods module, Bard College Berlin.\nSenior Research Colloquium, workshops on research design and methods, Fall 2018, BA course, Bard College Berlin.\nQualitative Methods in Political Science, Summer 2018, MA course, Department of Political Science, University of Freiburg.\nQualitative Comparative Analysis (QCA), Summer 2018, guest lecture in MA course on Quantitative Methods, Department of Political Science, University of Freiburg.\nDemocratization, Authoritarianism, and the Role of Regional Organizations, Winter 2017/2018, BA/MA course, Department of Political Science, University of Freiburg.\nIntroduction to Set Methods and QCA, Nov. 2017, PhD workshop, guest lecture in Prof. Erin K. Jenne’s Research and Methods class, CEU Budapest.\nReserch Design, weekly classes on research methods and techniques for visiting fellows from Myanmar. Oct.-Dec. 2016, CEU Budapest.\nStudies in Comparative Politics, Winter 2015/2016, MA course, Teaching Assistant for Prof. Zsolt Enyedi, CEU Budapest.\nCentral Asia: Local Politics, Regional Dynamics, and the Geopolitics of Energy, Fall 2015, MA course, Teaching Assistant for Prof. Matteo Fumagalli, CEU Budapest.\n\n\n\nFurther Information\nIn 2016, I graduated from the CTL Program for Excellence in Teaching in Higher Education at CEU. Contact me for further material such as my teaching philosophy, sample syllabi, slides or course evaluations."
-  },
-  {
-    "objectID": "teaching/index.html#grid-listing",
-    "href": "teaching/index.html#grid-listing",
-    "title": "Projects",
-    "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teaching/index.html#table-listing",
-    "href": "teaching/index.html#table-listing",
-    "title": "Projects",
-    "section": "Table listing",
-    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teaching/project_1/index.html",
-    "href": "teaching/project_1/index.html",
-    "title": "project_1",
-    "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
+    "objectID": "datasets/index.html#varieties-of-democracy-v-dem-version-11.1.",
+    "href": "datasets/index.html#varieties-of-democracy-v-dem-version-11.1.",
+    "title": "Datasets",
+    "section": "Varieties of Democracy (V-Dem), Version 11.1.",
+    "text": "Varieties of Democracy (V-Dem), Version 11.1.\nI contributed to Version 11.1. of the Varieties of Democracy (V-Dem) dataset. The V-Dem dataset includes the world’s most comprehensive and detailed democracy ratings. The dataset and associated reference documents are freely available here.\nTogether with a few colleagues, we put together the vdemdata R package as a user-friendly tool to work with the latest version of the V-Dem dataset.\nCitation: Michael Coppedge, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Allen Hicken, Anna Lührmann, Seraphine F. Maerz, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Pamela Paxton, Daniel Pemstein, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Eitan Tzelgov, Luca Uberti, Yi-ting Wang, Tore Wig, and Daniel Ziblatt. V-Dem Codebook v11.1, https://www.v-dem.net/. Varieties of Democracy (V-Dem) Project, 2021."
   },
   {
     "objectID": "publications/index.html",
@@ -273,31 +70,10 @@
     "text": "Pandemic Backsliding: Democracy during COVID-19\nI am Principal Investigator (together with Anna Lührmann, Amanda B. Edgell, and Jean Lachapelle) of a project on violations of democratic standards for emergency responses during the COVID-19 pandemic, the project was funded by the Swedish Ministry of Foreign Affairs (2020/2021). For further information about this project, see here."
   },
   {
-    "objectID": "datasets/index.html#shinyapps-and-interactive-dashboards-to-explore-our-datasets",
-    "href": "datasets/index.html#shinyapps-and-interactive-dashboards-to-explore-our-datasets",
-    "title": "Datasets",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Seraphine F. Maerz",
     "section": "",
-    "text": "I think ShinyApps and dashboards are great tools to explore and interactively work with new datasets which is why we developed the following applications along with our datasets:\n\nThe TOSCO ShinyDashboard (put together with the TOSCO team) provides data on ownership of Internet service providers (ISPs) and several applications to explore these ownership structures and state control over ISPs.\nThe ERT ShinyApp (put together with Sebastian Hellmeier) provides several interactive applications allowing users to flexibly adjust the parameters of the ERT dataset (see below) and test their validity."
-  },
-  {
-    "objectID": "datasets/index.html#episodes-of-regime-transformation-ert",
-    "href": "datasets/index.html#episodes-of-regime-transformation-ert",
-    "title": "Datasets",
-    "section": "Episodes of Regime Transformation (ERT)",
-    "text": "Episodes of Regime Transformation (ERT)\nIdentifies episodes of democratization (liberalizing autocracy, democratic deepening) and autocratization (democratic regression, autocratic regression) in the most recent V-Dem dataset, the dataset is freely available here. We also provide the ERT R package as a user-friendly tool to flexibly work with the dataset.\nCitation: Edgell, Amanda B., Seraphine F. Maerz, Laura Maxwell, Richard Morgan, Juraj Medzihorsky, Matthew C. Wilson, Vanessa A. Boese, Sebastian Hellmeier, Jean Lachapelle, Patrik Lindenfors, Anna Lührmann, and Staffan I. Lindberg. Episodes of Regime Transformation Dataset (v13.0). Varieties of Democracy (V-Dem) Project, 2024."
-  },
-  {
-    "objectID": "datasets/index.html#pandemic-backsliding",
-    "href": "datasets/index.html#pandemic-backsliding",
-    "title": "Datasets",
-    "section": "Pandemic Backsliding",
-    "text": "Pandemic Backsliding\nThePandemic Backsliding project tracks state responses to Covid-19 and their potential effect on the overall quality of democracy within the country. The current version of the data reflects the situation between March 2020 and June 2021. The data is freely available here, more information about the project here.\nCitation: Edgell, Amanda B., Anna Lührmann, Seraphine F. Maerz, Jean Lachapelle, Sandra Grahn, Ana Flavia Good God, Martin Lundstedt, Natalia Natsika, Palina Kolvani, Paul Bederke, Shreeya Pillai, Stefanie Kaiser, Abdalhadi Alijla, Tiago Fernandes, Hans Tung, Matthew Wilson, and Staffan I. Lindberg. Pandemic Backsliding: Democracy During Covid-19 (PanDem), Version 5, Varieties of Democracy (V-Dem) Project, 2020."
-  },
-  {
-    "objectID": "datasets/index.html#varieties-of-democracy-v-dem-version-11.1.",
-    "href": "datasets/index.html#varieties-of-democracy-v-dem-version-11.1.",
-    "title": "Datasets",
-    "section": "Varieties of Democracy (V-Dem), Version 11.1.",
-    "text": "Varieties of Democracy (V-Dem), Version 11.1.\nI contributed to Version 11.1. of the Varieties of Democracy (V-Dem) dataset. The V-Dem dataset includes the world’s most comprehensive and detailed democracy ratings. The dataset and associated reference documents are freely available here.\nTogether with a few colleagues, we put together the vdemdata R package as a user-friendly tool to work with the latest version of the V-Dem dataset.\nCitation: Michael Coppedge, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Allen Hicken, Anna Lührmann, Seraphine F. Maerz, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Pamela Paxton, Daniel Pemstein, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Eitan Tzelgov, Luca Uberti, Yi-ting Wang, Tore Wig, and Daniel Ziblatt. V-Dem Codebook v11.1, https://www.v-dem.net/. Varieties of Democracy (V-Dem) Project, 2021."
+    "text": "Download CV\n  \n  \n    \n     Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     GoogleScholar\n  \n  \n    \n     \n  \n\n  \n  \n\nWelcome!\nI am a Lecturer in Political Science (Research Methods) at the University of Melbourne. Before, I held positions at the Goethe University in Frankfurt am Main, Germany, and the Varieties of Democracy (V-Dem) Institute in Gothenburg, Sweden. I am Principal Investigator and Project Leader of the DFG-funded project on digital authoritarianism. The different sections of this website provide an overview of my publications, research projects, datasets, and teaching experience. You find my CV here.\nMy research interests are:\n\nDemocracy, authoritarianism, regime change\nPolitical communication, internet politics\nQuantitative methods\n\nI am co-founder of QuantLab."
   }
 ]
