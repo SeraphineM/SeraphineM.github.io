@@ -34,6 +34,6 @@ My research interests are:
 - Political communication, internet politics
 - Quantitative methods
 
-I am co-founder of [QuantLab](https:quantilab.github.io).
+I am co-founder of [QuantLab](https://quantilab.github.io).
 
 :::
