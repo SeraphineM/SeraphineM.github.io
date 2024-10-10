@@ -3,6 +3,14 @@ title: "Teaching experience"
 image: Teaching.png
 ---
 
+- **Using AI for Text Analysis in R**, full-day online workshop (26.11.24) offered on
+the Instats platform, [registration here](https://instats.org/seminar/using-ai-for-text-analysis-in-r4).
+
+- **Quarto in RStudio: Writing Reproducible and Dynamic Research Papers**, full-day online workshop (07.10.24) offered on the Instats platform, [available on demand here](https://instats.org/seminar/quarto-in-r-studio-writing-reproducible2).
+
+- **Data Analysis and Coding in R**, BA, optional seminar offered as part of
+’Applied Political Science Project’, School of Social and Political Science, University
+of Melbourne.
 
 -   **Communicating Social Science Research,** Winter 2024, BA Honours course, School of Social and Political Science, University of Melbourne.
 

@@ -34,6 +34,8 @@ My research interests are:
 - Political communication, internet politics
 - Quantitative methods
 
-I am co-founder of [QuantLab](https://quantilab.github.io).
+I am co-founder of [QuantLab](https://quantilab.github.io), a new network group aiming
+to bring together social scientists at the University of Melbourne and beyond to
+share insights in cutting-edge quantitative methods and research. I offer online workshops on [Instats](https://instats.org/), register here for my upcoming full-day online workshop on [Using AI for Text Analysis in R](https://instats.org/seminar/using-ai-for-text-analysis-in-r4).
 
 :::
