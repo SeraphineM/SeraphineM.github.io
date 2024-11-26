@@ -8,13 +8,13 @@ about:
   links:
     - text: Download CV
       href: https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/SeraphineMaerz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/seraphine-f-maerz-410286327/
     - icon: github
       text: GitHub
       href: https://github.com/SeraphineM
-    - icon: googlescholar
+    - icon: "{{< iconify ai google-scholar >}}"
       text: GoogleScholar
       href: https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de
     - icon: envelope
@@ -26,7 +26,7 @@ about:
 
 # Welcome!
 
-I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). Before, I held positions at the [Goethe University](https://www.goethe-university-frankfurt.de/en?locale=en) in Frankfurt am Main, Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I am Principal Investigator and Project Leader of the DFG-funded project on [digital authoritarianism](projects/index.qmd). The different sections of this website provide an overview of my [publications](publications/index.qmd), [research projects](projects/index.qmd), [datasets](datasets/index.qmd), and [teaching experience](teaching/index.qmd). You find [my CV here](https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view). 
+I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). Before, I held positions at the [Goethe University](https://www.goethe-university-frankfurt.de/en?locale=en) in Frankfurt am Main, Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I was Principal Investigator and Project Leader of the DFG-funded project on [digital authoritarianism](projects/index.qmd). The different sections of this website provide an overview of my [publications](publications/index.qmd), [research projects](projects/index.qmd), [datasets](datasets/index.qmd), and [teaching experience](teaching/index.qmd). You find [my CV here](https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view). 
 
 My research interests are:
 
@@ -36,6 +36,6 @@ My research interests are:
 
 I am co-founder of [QuantLab](https://quantilab.github.io), a new network group aiming
 to bring together social scientists at the University of Melbourne and beyond to
-share insights in cutting-edge quantitative methods and research. I offer online workshops on [Instats](https://instats.org/), register here for my upcoming full-day online workshop on [Using AI for Text Analysis in R](https://instats.org/seminar/using-ai-for-text-analysis-in-r4).
+share insights in cutting-edge quantitative methods and research. I offer online workshops on [Instats](https://instats.org/), register here for my upcoming full-day online workshop on [Using AI for Text Analysis in R](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2).
 
 :::

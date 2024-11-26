@@ -3,8 +3,8 @@ title: "Teaching experience"
 image: Teaching.png
 ---
 
-- **Using AI for Text Analysis in R**, full-day online workshop (26.11.24) offered on
-the Instats platform, [registration here](https://instats.org/seminar/using-ai-for-text-analysis-in-r4).
+- **Using AI for Text Analysis (introduction/advanced applications)**, full-day online workshops (26.11.24 and also 11./18.02.2025) offered on
+the Instats platform, [registration here](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2).
 
 - **Quarto in RStudio: Writing Reproducible and Dynamic Research Papers**, full-day online workshop (07.10.24) offered on the Instats platform, [available on demand here](https://instats.org/seminar/quarto-in-r-studio-writing-reproducible2).
 
