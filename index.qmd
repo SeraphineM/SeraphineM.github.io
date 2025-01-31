@@ -26,16 +26,16 @@ about:
 
 # Welcome!
 
-I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://arts.unimelb.edu.au/school-of-social-and-political-sciences). Before, I held positions at the [Goethe University](https://www.goethe-university-frankfurt.de/en?locale=en) in Frankfurt am Main, Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I was Principal Investigator and Project Leader of the DFG-funded project on [digital authoritarianism](projects/index.qmd). The different sections of this website provide an overview of my [publications](publications/index.qmd), [research projects](projects/index.qmd), [datasets](datasets/index.qmd), and [teaching experience](teaching/index.qmd). You find [my CV here](https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view). 
+I am a Lecturer in Political Science (Research Methods) at the [University of Melbourne](https://findanexpert.unimelb.edu.au/profile/1051597-seraphine-maerz). Before, I held positions as Assistant Professor at the [Goethe University](https://www.goethe-university-frankfurt.de/en?locale=en) in Frankfurt am Main, Germany, and the [Varieties of Democracy (V-Dem) Institute](https://www.v-dem.net/) in Gothenburg, Sweden. I was Principal Investigator and Project Leader of the DFG-funded project on [digital authoritarianism](projects/index.qmd). The different sections of this website provide an overview of my [publications](publications/index.qmd), [research projects](projects/index.qmd), [datasets](datasets/index.qmd), and [teaching experience](teaching/index.qmd). You find [my CV here](https://drive.google.com/file/d/19gAZXc_lb8rSWYCNyYVLX6n4A-yh8rbW/view). 
 
 My research interests are:
 
 - Democracy, authoritarianism, regime change
-- Political communication, internet politics
-- Quantitative methods
+- Political communication, internet politics, AI in politics
+- Quantitative methods, computational text analysis, large language models (LLMs)
 
 I am co-founder of [QuantLab](https://quantilab.github.io), a new network group aiming
 to bring together social scientists at the University of Melbourne and beyond to
-share insights in cutting-edge quantitative methods and research. I offer online workshops on [Instats](https://instats.org/), register here for my upcoming full-day online workshop on [Using AI for Text Analysis in R](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2).
+share insights in cutting-edge quantitative methods and research. I offer [free online tutorials](https://quantilab.github.io/blog/tutorial4/) and accessible online workshops about how to use Large Language Models for text analysis on [Instats](https://instats.org/), register here for my upcoming full-day online workshop on [Using AI for Text Analysis in R (Introduction)](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2) or the advanced version [Using AI for Text Analysis (Advanced Applications)](https://instats.org/seminar/using-ai-for-text-analysis-advanced-app2).
 
 :::

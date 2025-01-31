@@ -4,7 +4,7 @@ title: "Publications"
 
 **In peer-reviewed journals**
 
--   Lisa Garbe, Seraphine F. Maerz, and Tina Freyburg. Authoritarian collaboration and repression in the digital age: Balancing foreign direct investment and control in internet infrastructure. Democratization, forthcoming.
+-   Lisa Garbe, Seraphine F. Maerz, and Tina Freyburg. Authoritarian collaboration and repression in the digital age: Balancing foreign direct investment and control in internet infrastructure. Democratization, Online first, 2025 [Access here](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377).
 
 -   Amanda Edgell, Jean Lachapelle, and Seraphine F. Maerz. Achieving Transparency, Traceability, and Readability with Human-Coded Data. PS: Political Science and Politics, Online first, 2024. [Access here](https://doi.org/10.1017/S1049096524000714%20).
 
@@ -68,9 +68,7 @@ title: "Publications"
 
 -   Maerz, Seraphine F. and Cornelius Puschmann. "Automated Content Analysis for Conflict Research: A Literature Survey." Book chapter in: Deutschmann E., Lorenz J., Nardin L., Natalini D., Wilhelm A. (eds) Computational Conflict Research. Computational Social Sciences. Springer, Cham. Open Access, 2020, [download here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29333-8.pdf).
 
--   Maerz, Seraphine F. Book review: Rollberg, Peter Laruelle, Marlene (eds.), Mass Media in the Post-Soviet World. Market Forces, State Actors,and Political Manipulation in the Informational Environment after Communism. Stuttgart: Ibidem-Verlag,
-
-    2018. Europe-Asia Studies 71(5): 863-865, 2019.
+-   Maerz, Seraphine F. Book review: Rollberg, Peter Laruelle, Marlene (eds.), Mass Media in the Post-Soviet World. Market Forces, State Actors,and Political Manipulation in the Informational Environment after Communism. Stuttgart: Ibidem-Verlag, 2018. Europe-Asia Studies 71(5): 863-865, 2019.
 
 -   Staffan I. Lindberg, Martin Lundstedt, Nazifa Alizada, Rowan Cole, Lisa Gastaldi, Sandra Grahn, Sebastian Hellmeier, Palina Kolvani, Jean Lachapelle, Anna Lührmann, Seraphine F. Maerz, and Shreeya Pillai. Liberal Demokrati i Riskzonen - autokratisering blir viral. Published in: I Abrahamsson, K., Jansson, P. Åkesson, T. (Red.), Demokratin Som Bildningsväg (s. 269-286). Carlssons Bokförlag., 2022.
 
