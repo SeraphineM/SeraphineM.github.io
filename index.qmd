@@ -36,6 +36,6 @@ My research interests are:
 
 I am co-founder of [QuantLab](https://quantilab.github.io), a new network group aiming
 to bring together social scientists at the University of Melbourne and beyond to
-share insights in cutting-edge quantitative methods and research. I offer [free online tutorials](https://quantilab.github.io/blog/tutorial4/) and accessible online workshops about how to use Large Language Models for text analysis on [Instats](https://instats.org/), register here for my upcoming full-day online workshop on [Using AI for Text Analysis in R (Introduction)](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2) or the advanced version [Using AI for Text Analysis (Advanced Applications)](https://instats.org/seminar/using-ai-for-text-analysis-advanced-app2).
+share insights in cutting-edge quantitative methods and research. I offer [free online tutorials](https://quantilab.github.io/blog/tutorial4/) and accessible online workshops about how to use and fine-tune Large Language Models for text analysis on [Instats](https://instats.org/), check out my on-demand online workshop on [Using AI for Text Analysis in R (Introduction)](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2) or the advanced version [Using AI for Text Analysis (Advanced Applications)](https://instats.org/seminar/using-ai-for-text-analysis-advanced-app2).
 
 :::

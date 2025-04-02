@@ -6,8 +6,8 @@ title: "Research projects"
 
 ## Smart Authoritarianism? Comparing the Internet Strategies of Authoritarian Regimes
 
-I am Principal Investigator and Project Leader of a project on authoritarian Internet strategies, the project is funded by the [German Research Foundation (DFG](https://www.dfg.de/en/index.jsp)) and affiliated with the Institute of Political Science at the Goethe University Frankfurt (Germany), see also [here](https://www.fb03.uni-frankfurt.de/108463498/Schwerpunkt_Methoden_der_Qualitativen_Empirischen_Sozialforschung).
-Together with my team and in collaboration with Tina Freyburg (University of St. Gallen) and Lisa Garbe (WZB), we are currently collecting data on ownership
+I was Principal Investigator and Project Leader of a project on authoritarian Internet strategies (2021-2024), the project was funded by the [German Research Foundation (DFG](https://www.dfg.de/en/index.jsp)) and affiliated with the Institute of Political Science at the Goethe University Frankfurt (Germany), see also [here](https://www.fb03.uni-frankfurt.de/108463498/Schwerpunkt_Methoden_der_Qualitativen_Empirischen_Sozialforschung).
+Together with my team and in collaboration with Tina Freyburg (University of St. Gallen) and Lisa Garbe (WZB), we released TOSCO2.0, an updated dataset on ownership
 structures of Internet Service Providers (ISPs), more information [here](https://tosco.shinyapps.io/data/).
 
 \
@@ -25,7 +25,7 @@ University of Vienna. See also the [project's website](http://www.authlib.eu/).
 
 ## Pandemic Backsliding: Democracy during COVID-19
 
-I am Principal Investigator (together with Anna Lührmann, Amanda B.
+I was Principal Investigator (together with Anna Lührmann, Amanda B.
 Edgell, and Jean Lachapelle) of a project on violations of democratic
 standards for emergency responses during the COVID-19 pandemic, the
 project was funded by the Swedish Ministry of Foreign Affairs

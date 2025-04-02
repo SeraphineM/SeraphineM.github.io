@@ -30,7 +30,7 @@ Citation: Edgell,
 Amanda B., Seraphine F. Maerz, Laura Maxwell, Richard Morgan, Juraj
 Medzihorsky, Matthew C. Wilson, Vanessa A. Boese, Sebastian Hellmeier,
 Jean Lachapelle, Patrik Lindenfors, Anna Lührmann, and Staffan I.
-Lindberg. Episodes of Regime Transformation Dataset (v13.0). Varieties of Democracy (V-Dem) Project, 2024.
+Lindberg. Episodes of Regime Transformation Dataset (v15.0). Varieties of Democracy (V-Dem) Project, 2025.
 
 \
 
