@@ -1,0 +1,109 @@
+---
+title: "CV"
+---
+
+#### Academic qualifications
+
+-   **PhD in Political Science** (2017, summa cum laude) – Central European University, Budapest
+-   **MA in Central Asian Studies** (2014) – Humboldt University Berlin
+-   **MA in European Studies (Political Science)** (2011) – European University Viadrina, Frankfurt/Oder
+-   **BA in International Communication & Translation** (2007) – University of Hildesheim
+
+#### Academic appointments
+
+- **Senior Lecturer in Political Science (Research Methods)**, University of Melbourne (since September 2025)
+-   **Lecturer in Political Science (Research Methods)**, University of Melbourne (January 2024 - August 2025)
+-   **Research Fellow, Project Leader**, Goethe University Frankfurt (2021–2024)
+-   **Assistant Professor**, University of Gothenburg, V-Dem Institute (2019–2021)
+-   **Postdoctoral Teaching Fellow**, Bard College Berlin (2018–2019)
+-   **Postdoctoral Research Associate**, University of Freiburg (2017–2018)
+
+#### Fellowships & awards
+
+-   **Visiting Researcher**, UC Berkeley (Aug/Sep 2017)
+-   **Academic Achievement Award**, CEU Budapest (2015)
+
+#### Research grants 
+
+-   **Principal Investigator**, German Research Foundation (DFG) Grant: "Smart Authoritarianism" (\~\$500,000, 2021–2024)
+-   **Co-Principal Investigator**, Swedish Ministry of Foreign Affairs: "Pandemic Backsliding: Democracy during COVID-19" (2020–2021, other Co-CIs: Amanda B. Edgell, Jean Lachapelle, Anna Lührmann)
+-   **Participating Researcher**, EU Horizon Europe Project "Neo-authoritarianism in Europe and the Liberal Democratic Response (AUTHLIB)" (2022–2025)
+
+
+#### Publications
+
+- For a list of my publications, see [here](https://seraphinem.github.io/publications/)
+- See also my [Google Scholar profile](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de)
+
+#### Teaching experience
+
+- For a list of my teaching experience, see [here](https://seraphinem.github.io/teaching/)
+
+
+#### Leadership & service
+
+-   **Coordinator** of the Political Science PhD program at the School of Social and Political Science, University of Melbourne (since 2025)
+-   **Member** of the **University of Melbourne's Academic Programs Committee** and the **University's Academic Board** (2025–2026)
+-   **Co-founder**, [QuantLab](https://quantilab.github.io/) – A network for social scientists working with quantitative and computational methods, organisation of bi-weekly seminars at University of Melbourne
+-   **Series Editor**, Routledge "[Democratization and Autocratization Studies](https://www.routledge.com/Democratization-and-Autocratization-Studies/book-series/DS?srsltid=AfmBOooIlUAJHkl6puD4_V31CqDfRZ5GuhuTOG5-PHA72WHd_mAVrLoO)"
+-   **Deputy Director & Steering Committee Member of the [V-Dem Institute](https://www.v-dem.net/)**, University of Gothenburg (2020–2021)
+-   **Coordinator**, ERASMUS exchange programs, Department of Political Science, University of Freiburg (2018)
+-   **Member**, organizing committee for the 8th Graduate Network Conference, CEU Budapest (2016)
+-   **Reviewer** for leading journals: American Journal of Political Science, Comparative Political Studies, Perspectives on Politics, British Journal of Political Science, Journal of Peace Research, Political Behavior, Democratization, Political Studies, Political Research Quarterly, Political Studies Review, European Political Science Review, International Journal of Public Opinion Research, Politics and Religion, Government Information Quarterly, Governance, Democracy and Security, Journal of Information Technology and Politics, among others (ongoing)
+
+
+#### Consultancy and Advisory Roles
+
+-  **Amnesty International** (2025): Conversations about modern authoritarian practices and how generative AI is used to undermine democracy
+-   **New York Times** (2022): Consultation on illiberal public discourses and text-as-data methods
+-   **Bloomberg** (2020): Expert commentary on illiberal public communication
+-   **Helsingin Sanomat** (major Finnish Newspaper) (2020): Expert commentary on the V-Dem Project
+
+--> Please see [here](https://seraphinem.github.io/publications/) for a list of my policy briefs, op-eds, and V-Dem Democracy Reports 
+
+#### Invited talks 
+
+**ANU**, School of Politics and International Relations, Canberra (June 2025): Invitation to present on methods of quantitative text analysis.
+**Australasian Public Policy Network Meeting**, University of Melbourne (January 2025): "Methods teaser" about Large Language Models and Text as Data.
+**WZB Berlin**, Transformations of Democracy (December 2024): Guest lecture about how to detect democratic decline with political speeches.
+**International IDEA, Sweden, and Center for New Ideas, Poland (November 2024):** Guest lecture about ‘Measuring Democracy and Regime Transformations’.
+Melbourne Political Economy Group, organized by **Monash University** (September 2024): Presentation about ‘Detecting Democratic Decline: Political Leaders’ Public Speech as an Early Warning Signal’.
+Authoritarian and Challenging Environments Research Group **(ACERG) Workshop**, hosted by the Australian Political Science Association (APSA) at the University of Melbourne (June 2024): Presentation about authoritarianism and challenging environments.
+Towards a Typology of Contestation (TTC) Workshop, **WZB Berlin** Social Science Center (November 2023): Presentation on typologies of contestation.
+Yet they persist: Democracy in an age of autocratization Workshop, Department of Social and Political Science, **Università degli Studi di Milano** (June 2023): Presentation about how to identify (early) autocratization.
+How to Save Democracy, Resilience of Democracies Workshop, Graduate Research Group, Resilient Institutions, **University of Mainz** (March 2023): **Keynote speech** about "Democracy in Crisis".
+Rethinking Regimes Workshop, Centre for Elections, Democracy, Accountability and Representation **(CEDAR), University of Birmingham** (January 2023): Presentation about how to measure regime change.
+Autumn School YISARES ‘Situating Soft Authoritarianism between Geopolitical Complexities and Everyday Practices’, **University of Bremen** (October 2022): Presentation about ‘Digital Authoritarianism’.
+**CEU, Democracy Institute Budapest**, CIVICA Workshop (September 2022): Presentation about ‘Autocratization in Digital Public Spaces’.
+**GIGA Hamburg**, virtual (May 2022): Presentation about ‘Pandemic Backsliding - Democracy and COVID-19’.
+**Aarau Democracy Days (ZDA), Switzerland (March 2022):** Presentation about ‘Pandemic Backsliding - Democracy and COVID-19’.
+**University of Alabama,** virtual, Department of Political Science (April 2021): Presentation about ‘Public Discourse and Autocratization’.
+**Center for Advanced Internet Studies (CAIS)**, Bochum, Workshop and Network Meeting on ‘Computational Social Science’.(September 2018): Presentation about ‘Illiberal Public Discourse’.
+
+#### Conference papers
+
+**APSA** Virtual Workshop on Advancing Computational Methods in Political Science (April 2025): Paper on Artificial Intelligence, Real Threats.
+Decrypting Digital Authoritarianism, **European University Institute (EUI)**, Florence (October 2024): Presentation about ‘Strategies of Digital Authoritarianism’.
+**ECPR** General Conference, Prague (September 2023): Co-chair of the section on ‘Digital Authoritarianism’ (together with Lisa Garbe).
+Presentation of a single-authored paper on digital authoritarianism and a co-authored paper on ISP ownership structures (with Lisa Garbe and Tina Freyburg).
+German Political Science Association (**GPSA**), Meeting of the Comparative Politics Section, Frankfurt (Oder) (September 2022): Presentation about ‘Episodes of Regime Transformation’.
+German Political Science Association (**GPSA**) Congress, virtual (September 2021): Co-chair and discussant of the panel ‘Autocratization Processes in Comparative Perspective’.
+International Studies Association (**ISA**) Annual Convention, virtual (April 2021): Roundtable discussion about ‘Qualitative Comparative Analysis (QCA) in International Relations’.
+**ECPR** General Conference, virtual (August 2020): Co-chair of the panel ‘How Autocrats Communicate Bad News’.
+Paper on ‘Pandemic Backsliding: Public Communication and Autocratization during Crises’, co-authored with Amanda B. Edgell, Sandra Grahn, Jean Lachapelle, and Anna Lührmann.
+**ECPR** Joint Sessions, Mons (April 2019): Paper on ‘Democracy in Crisis - Bringing Public Discourse (Back) In’, co-authored with Carsten Q. Schneider.
+**DVPW** General Conference, Frankfurt (September 2018): Paper on ‘Out of Democratic Bounds?
+An Automated Text Analysis of Speeches by European Heads of Government’, co-authored with Carsten Q. Schneider.
+**CAIS**, Center for Advanced Internet Studies, Bochum (September 2018): Workshop and network meeting on ‘Computational Social Science’.
+**ECPR** General Conference, Hamburg (August 2018): Paper on ‘Putting the Money Where Your Mouth Is?
+Comparing the Discourses of (Illiberal) Democrats and Autocrats Using Automated Text Analysis’, co-authored with Carsten Q. Schneider.
+**APSA** Annual Meeting, San Francisco (August 2017): Paper on ‘Simulating Pluralism: The Language of Democracy in Hegemonic Authoritarianism’.
+Annual Doctoral Conference, **CEU** Budapest (April 2017): Paper on ‘Pathways of Authoritarian Persistence’.
+**DVPW** Comparative Politics Conference, Tübingen (March 2017): Paper on ‘The Conditions of Authoritarian Persistence: Classifying Autocratic Regimes by Applying Fuzzy-Set Qualitative Comparative Analysis’.
+**ECPR** General Conference, Prague (September 2016): Paper on ‘Legitimation, Cooptation, and Repression and the Survival of Electoral Autocracies’, co-authored with Carsten Q. Schneider.
+**ECPR** Joint Sessions, Pisa (April 2016): Workshop on ‘Legitimation in Non-Democracies’.
+Paper on e-government in autocracies.
+Nawruz Postgraduate Workshop on Central Asia, **University of Exeter** (March 2016): Paper on ideology in Uzbekistan.
+Annual Doctoral Conference, **CEU** Budapest (April 2015): Paper on ‘The Many Worlds of Autocracies’.
+CEFR Workshop ‘Extrication from Authoritarian Socialism’, **RGASPI, Moscow** (August 2014): Paper on Ma’naviyat in Uzbekistan.
+**ECPR** Graduate Student Conference, University of Innsbruck (July 2014): Paper on autocratic persistence in Uzbekistan.

@@ -2,7 +2,9 @@
 title: "Publications"
 ---
 
-**In peer-reviewed journals**
+See also my [Google Scholar profile](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de)
+
+#### In peer-reviewed journals
 
 - Seraphine F. Maerz. How practices of digital authoritarianism harm democracy.
 Democratization, *forthcoming*.
@@ -41,7 +43,7 @@ Democratization, *forthcoming*.
 
 \
 
-**V-Dem Democracy Reports**
+#### V-Dem Democracy Reports
 
 -   Alizada, Nazifa, Rowan Cole, Lisa Gastaldi, Sandra Grahn, Sebastian Hellmeier, Palina Kolvani, Jean Lachapelle, Anna Lührmann, Seraphine F. Maerz, Shreeya Pillai, and Staffan I. Lindberg. Autocratization Turns Viral, Democracy Report 2021.V-Dem Institute, 2021. [Access here.](https://www.v-dem.net/en/).
 
@@ -49,9 +51,13 @@ Democratization, *forthcoming*.
 
 \
 
-**Policy Papers and other publications**
+#### Policy briefs
+
+-   **Commissioned work:** Policy Report for the Robert Schumann Center (EUI) and European Commission: "Addressing AI-Powered Threats to Democracy" (2025, ongoing).
 
 -   Maerz, Seraphine F. , Amanda B. Edgell, Jean Lachapelle. "Pandemic Backsliding" - Demokratien im Ausnahmezustand während COVID-19. De Facto Online Platform. 2022. [Access here.](https://www.defacto.expert/2022/03/29/pandemic-backsliding-demokratien-im-ausnahmezustand-waehrend-covid-19/).
+
+-   **Commissioned work:** Policy Report for USAID on e-government (2021, together with Valeriya Mechkova).
 
 -   Edgell, Amanda B., Matthew C. Wilson, and Seraphine F. Maerz. Episodes of Regime Transformation: Assessing Democratization and Autocratization since 1900. APSA - Comparative Politics Newsletter, Spring 2021. [Access here.](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2021/05/2021_spring.pdf).
 
@@ -63,7 +69,9 @@ Democratization, *forthcoming*.
 
 \
 
-**Book chapters and reviews**
+#### Book chapters and reviews
+
+-   Sebastian Stier and Seraphine F. Maerz. Chapter on Computational Methods in Handbook of Comparative Politics (Springer), edited by Marianne Kneuer et al., forthcoming.
 
 -   Maerz, Seraphine F. "The Internet and Autocratization". Chapter 15 in the Routledge Handbook of Autocratization (edited by Aurel Croissant and Luca Tomini), 2024.
 
@@ -81,12 +89,12 @@ Democratization, *forthcoming*.
 
 \
 
-**R packages**
+#### R packages
+
+- Maerz, Seraphine F., Kenneth Benoit. *quanteda.llm* - LLM support for quanteda. 2025. [Access here](https://quanteda.github.io/quanteda.llm/).
 
 -   Maerz, Seraphine F., Amanda B. Edgell, Sebastian Hellmeier, and Nina Ilchenko. Vdemdata - an R package to load,explore and work with the most recent V-Dem (Varieties of Democracy) dataset. Varieties of Democracy (V-Dem) Project, 2025. [Access here.](https://github.com/vdeminstitute/vdemdata).
 
 -   Maerz, Seraphine F., Amanda B. Edgell, Joshua Krusell, Laura Maxwell, Sebastian Hellmeier, and Nina Ilchenko. ERT - An R package to load, explore, and work with the Episodes of Regime Transformation (ERT) dataset. Varieties of Democracy (V-Dem) Project, 2025. [Access here](https://github.com/vdeminstitute/ERT).
-
-- Maerz, Seraphine F., Kenneth Benoit. *quanteda.llm* - LLM support for quanteda. 2025 (work in progress). [Access here](https://github.com/quanteda/quanteda.llm).
 
 -   Maerz, Seraphine F. An R package to Assist with Automated Data Collection and Analysis (audacola), 2020. [Access here](https://github.com/SeraphineM/audacola).
