@@ -11,7 +11,7 @@ title: "CV"
 
 #### Academic appointments
 
-- **Senior Lecturer in Political Science (Research Methods)**, University of Melbourne (since September 2025)
+- **Senior Lecturer in Political Science (Research Methods)**, University of Melbourne (since September 2025) 
 -   **Lecturer in Political Science (Research Methods)**, University of Melbourne (January 2024 - August 2025)
 -   **Research Fellow, Project Leader**, Goethe University Frankfurt (2021–2024)
 -   **Assistant Professor**, University of Gothenburg, V-Dem Institute (2019–2021)
@@ -25,6 +25,7 @@ title: "CV"
 
 #### Research grants 
 
+-   **Chief Investigator**, Australian Research Council DECRA Grant: "Words of Warning: How Illiberal Public Discourse Signals Democratic Decline" (\~\$470,000, 2026–2028)
 -   **Principal Investigator**, German Research Foundation (DFG) Grant: "Smart Authoritarianism" (\~\$500,000, 2021–2024)
 -   **Co-Principal Investigator**, Swedish Ministry of Foreign Affairs: "Pandemic Backsliding: Democracy during COVID-19" (2020–2021, other Co-CIs: Amanda B. Edgell, Jean Lachapelle, Anna Lührmann)
 -   **Participating Researcher**, EU Horizon Europe Project "Neo-authoritarianism in Europe and the Liberal Democratic Response (AUTHLIB)" (2022–2025)
@@ -42,8 +43,8 @@ title: "CV"
 
 #### Leadership & service
 
--   **Coordinator** of the Political Science PhD program at the School of Social and Political Science, University of Melbourne (since 2025)
 -   **Member** of the **University of Melbourne's Academic Programs Committee** and the **University's Academic Board** (2025–2026)
+-   **Coordinator** of the Political Science PhD program at the School of Social and Political Science, University of Melbourne (2025)
 -   **Co-founder**, [QuantLab](https://quantilab.github.io/) – A network for social scientists working with quantitative and computational methods, organisation of bi-weekly seminars at University of Melbourne
 -   **Series Editor**, Routledge "[Democratization and Autocratization Studies](https://www.routledge.com/Democratization-and-Autocratization-Studies/book-series/DS?srsltid=AfmBOooIlUAJHkl6puD4_V31CqDfRZ5GuhuTOG5-PHA72WHd_mAVrLoO)"
 -   **Deputy Director & Steering Committee Member of the [V-Dem Institute](https://www.v-dem.net/)**, University of Gothenburg (2020–2021)
@@ -63,6 +64,7 @@ title: "CV"
 
 #### Invited talks 
 
+**DEMLAB**, Aristotle University of Thessaloniki (October 2025): Webinar about "Illiberal language and democratic decline". 
 **ANU**, School of Politics and International Relations, Canberra (June 2025): Invitation to present on methods of quantitative text analysis.
 **Australasian Public Policy Network Meeting**, University of Melbourne (January 2025): "Methods teaser" about Large Language Models and Text as Data.
 **WZB Berlin**, Transformations of Democracy (December 2024): Guest lecture about how to detect democratic decline with political speeches.

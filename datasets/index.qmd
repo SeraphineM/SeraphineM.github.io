@@ -6,7 +6,7 @@ title: "Datasets"
 
 ## ShinyApps and interactive dashboards to explore our datasets
 
-I think ShinyApps and dashboards are great tools to explore and
+ShinyApps and dashboards are great tools to explore and
 interactively work with new datasets which is why we developed the
 following applications along with our datasets:
 

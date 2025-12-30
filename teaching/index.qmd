@@ -6,7 +6,7 @@ image: Teaching.png
 
 #### Seminars and lectures:
 
--   **University of Melbourne**: Authoritarian Politics (BA, co-coordinator), Decoding Democracy (BA), Communicating Social Science Research (BA Honours), Researching Politics and Policy (PhD), Applied Political Science Project (BA, co-coordinator, extra seminar on Data Analysis and Coding in R)
+-   **University of Melbourne**: Quantitative Methods (PhD), Authoritarian Politics (BA, co-coordinator), Decoding Democracy (BA), Communicating Social Science Research (BA Honours), Researching Politics and Policy (PhD), Applied Political Science Project (BA, co-coordinator, extra seminar on Data Analysis and Coding in R)
 -   **Goethe University Frankfurt**: Measuring Democracy (MA)
 -   **University of Gothenburg**: Varieties of Democracy (MA, co-coordinator)
 -   **Bard College Berlin**: Introduction to Statistics (BA), Measuring Democracy and Autocracy (BA)
@@ -19,6 +19,8 @@ image: Teaching.png
 
 - Upcoming: [KOMEX 2026 Methods Excellence Workshops (MethodsNET)](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz (February 2026): "Introduction to AI-driven Text Analysis".
 - Upcoming: [KOMEX 2026 Methods Excellence Workshops (MethodsNET)](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz (February 2026): "Fine-Tuning Large Language Models".
+- **AI-Powered Qualitative Analysis in R**, full-day online workshop with [Ken Benoit](https://kenbenoit.net/) on using Large Language Models (LLMs) for qualitative data analysis in R, offered in the Instats platform, [available on demand here](https://instats.org/seminar/ai-powered-qualitative-analysis-in-r).
+- **Tuning LLMs for Text Analysis**, half-day online workshop on fine-tuning open-source LLMs in Python, offered in the Instats platform, [available on demand here](https://instats.org/seminar/fine-tuning-llms-for-text-analysis).
 - **Using AI for Text Analysis (Introduction)**, full-day online workshop on working with Large Language Models (LLMs) in R for text analysis, offered on the Instats platform, [available on demand here](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2).
 - **Using AI for Text Analysis (Advanced Applications)**, full-day online workshops on fine-tuning Large Language Models (LLMs) in Python for text analysis, offered on the Instats platform, [available on demand here](https://instats.org/seminar/using-ai-for-text-analysis-an-introduct2).
 - **Quarto in RStudio: Writing Reproducible and Dynamic Research Papers**, full-day online workshop offered on the Instats platform, [available on demand here](https://instats.org/seminar/quarto-in-r-studio-writing-reproducible2).

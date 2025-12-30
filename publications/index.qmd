@@ -6,8 +6,10 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=B
 
 #### In peer-reviewed journals
 
+- Lisa Garbe and Seraphine F. Maerz (Guest Editors). The rise of authoritarian informationalism: escalating surveillance, manipulation, and control. Introduction to a Special Issue. Democratization, 33 (1), 2026. [Access here](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105).
+
 - Seraphine F. Maerz. How practices of digital authoritarianism harm democracy.
-Democratization, *forthcoming*.
+Democratization, Online First, 2025. [Access here](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826).
 
 - Dean G. Schafer, Seraphine F. Maerz, Carsten Q. Schneider, and Alexandra Krasnokutskaya. “Strongmen” Don't Redistribute: Illiberal Leaders on the Right and Worsening Economic Inequality. Politics and Governance, Volume 13, 2025. [Access here](https://www.cogitatiopress.com/politicsandgovernance/article/view/9812).
 
@@ -90,6 +92,8 @@ Democratization, *forthcoming*.
 \
 
 #### R packages
+
+- Maerz, Seraphine F., Kenneth Benoit. *quallmer* - An R package for Qualitative Analysis with LLMs. 2026. [Access here](https://seraphinem.github.io/quallmer/).
 
 - Maerz, Seraphine F., Kenneth Benoit. *quanteda.llm* - LLM support for quanteda. 2025. [Access here](https://quanteda.github.io/quanteda.llm/).
 
