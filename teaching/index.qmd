@@ -1,0 +1,34 @@
+---
+title: "Teaching experience"
+image: Teaching.png
+---
+
+
+#### Seminars and lectures
+
+-   **University of Melbourne**: Quantitative Methods (PhD), Authoritarian Politics (BA, co-coordinator), Decoding Democracy (BA), Communicating Social Science Research (BA Honours), Researching Politics and Policy (PhD), Applied Political Science Project (BA, incl. R coding seminar)
+-   **Goethe University Frankfurt**: Measuring Democracy (MA)
+-   **University of Gothenburg**: Varieties of Democracy (MA, co-coordinator)
+-   **Bard College Berlin**: Introduction to Statistics (BA), Measuring Democracy and Autocracy (BA)
+-   **University of Freiburg**: Democratization & Authoritarianism (BA/MA), Qualitative Methods (MA)
+-   **Central European University (CEU)**: Research Design, Set Methods and QCA (Guest lecture), Comparative Politics (TA), Central Asia (TA)
+
+#### Online methods workshops
+
+- [*ekomex* 2026](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models"
+- [AI-Powered Qualitative Analysis in R 2.0](https://doi.org/10.61700/X8FWPVNRRWHT12277) (with K. Benoit), Instats platform, 2026
+- [Tuning LLMs for Text Analysis](https://doi.org/10.61700/YW2IS8JTEGGA12277), Instats platform, 2026
+- [Using AI for Text Analysis: An Introduction](https://doi.org/10.61700/TI5UEXUI5ILRD1663), Instats platform, 2025
+- [Using AI for Text Analysis: Advanced Applications](https://doi.org/10.61700/NQUMT3VU2ZQ3K1816), Instats platform, 2025
+- [Quarto in RStudio: Writing Reproducible & Dynamic Research Papers](https://doi.org/10.61700/PDEAAEFQ62N681556), Instats platform, 2024
+
+#### Supervision
+
+- PhD: 3 current (University of Melbourne)
+- PhD external examiner: 2 completed (Université Libre de Bruxelles, Sapienza Università di Roma)
+- MA: 4 completed (University of Gothenburg)
+- Honours: 2 completed (University of Melbourne)
+
+#### Further information
+
+In 2016, I graduated from the [CTL Program](https://ctl.ceu.edu/) for [Excellence in Teaching in Higher Education](https://drive.google.com/open?id=1KXPcd8kNd5nVi4Ly4i94Nl_SExn5GMFa) at CEU. Contact me for further material such as my teaching philosophy, sample syllabi, slides or course evaluations.

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Dr. Seraphine F. Maerz"
+  favicon: favicon.png
+
+  page-footer:
+    left: "&copy; Copyright 2026, Seraphine F. Maerz"
+    right: "This page is built with [Quarto](https://quarto.org/)."
+
+  navbar:
+    pinned: true
+    align: center
+    style: "docked"
+    right:
+      - text: "CV"
+        href: "#cv"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Research"
+        href: "#research"
+      - text: "Datasets"
+        href: "#datasets"
+      - text: "Teaching"
+        href: "#teaching"
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+

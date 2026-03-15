@@ -1,0 +1,248 @@
+---
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry:
+      - top=20mm
+      - left=22mm
+      - right=22mm
+      - bottom=20mm
+    fontsize: 10.5pt
+    mainfont: "Palatino"
+    linestretch: 1.1
+    include-in-header:
+      text: |
+        \usepackage{enumitem}
+        \usepackage{xcolor}
+        \setlist[itemize]{nosep, left=0pt, itemsep=2pt}
+        \usepackage{titlesec}
+        \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
+        \titlespacing*{\section}{0pt}{12pt}{6pt}
+        \titleformat{\subsection}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
+        \titlespacing*{\subsection}{0pt}{12pt}{6pt}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+        \renewcommand{\headrulewidth}{0pt}
+        \fancyfoot[C]{\footnotesize\thepage}
+        \usepackage{parskip}
+        \setlength{\parskip}{3pt}
+---
+
+\begin{center}
+{\fontsize{22}{26}\selectfont\addfontfeatures{LetterSpace=8}\textsc{Dr. Seraphine F. Maerz}}\\[0.3cm]
+{\small\color{gray}\rule{4cm}{0.4pt}}\\[0.25cm]
+{\normalsize Senior Lecturer in Political Science (Research Methods)}\\[0.05cm]
+{\normalsize\href{https://findanexpert.unimelb.edu.au/profile/1051597-seraphine-maerz}{School of Social and Political Science, University of Melbourne}}\\[0.25cm]
+{\small
+\href{mailto:seraphine.maerz@unimelb.edu.au}{seraphine.maerz@unimelb.edu.au} · \href{https://seraphinem.github.io}{seraphinem.github.io}}\\[0.08cm]
+{\small
+\href{https://www.linkedin.com/in/dr-seraphine-f-maerz-410286327/}{LinkedIn} · \href{https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de}{Google Scholar} · \href{https://github.com/SeraphineM}{GitHub}}\\[0.08cm]
+{\small\textit{Co-founder of \href{https://quantilab.github.io/}{QuantLab} · Co-developer of \href{https://quallmer.github.io/quallmer/}{quallmer}}}
+\end{center}
+
+\vspace{0.4cm}
+
+## Education
+
+**2017** | PhD Political Science (*summa cum laude*), Central European University, Budapest\
+Supervisor: Carsten Q. Schneider
+
+**2014** | MA Central Asian Studies, Humboldt University Berlin
+
+**2011** | MA European Studies (Political Science), European University Viadrina, Frankfurt/Oder
+
+**2007** | BA International Communication & Translation, University of Hildesheim
+
+## Academic Positions
+
+**2025–present** | Senior Lecturer in Political Science (Research Methods), University of Melbourne
+
+**2024–2025** | Lecturer in Political Science (Research Methods), University of Melbourne
+
+**2021–2024** | Research Fellow & Project Leader, Goethe University Frankfurt
+
+**2019–2021** | Assistant Professor, University of Gothenburg, V-Dem Institute
+
+**2018–2019** | Postdoctoral Teaching Fellow, Bard College Berlin
+
+**2017–2018** | Postdoctoral Research Associate, University of Freiburg
+
+*Parental leave:* 1st child: June–Oct. 2019, April–June 2021 | 2nd child: Nov. 2021–July 2022
+
+## Research Grants
+
+**2026–2028** | Australian Research Council DECRA\
+"Words of Warning: How Illiberal Public Discourse Signals Democratic Decline"\
+Chief Investigator (~$470,000 AUD)
+
+**2022–2025** | EU Horizon Europe\
+"Neo-authoritarianism in Europe and the Liberal Democratic Response (AUTHLIB)"\
+Participating Researcher
+
+**2021–2024** | German Research Foundation (DFG)\
+"Smart Authoritarianism"\
+Principal Investigator (~$500,000 AUD)
+
+**2020–2021** | Swedish Ministry of Foreign Affairs\
+"Pandemic Backsliding: Democracy during COVID-19"\
+Co-Principal Investigator
+
+## Awards & Fellowships
+
+- Visiting Researcher, UC Berkeley, Department of Political Science (August–September 2017)
+- Academic Achievement Award for First-Year Doctoral Students, CEU Budapest (2015)
+
+## Peer-Reviewed Journal Articles
+
+- Garbe, L. & Maerz, S.F. (Guest Editors). "The rise of authoritarian informationalism: escalating surveillance, manipulation, and control." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105), 33(1), 2026.
+- Maerz, S.F. "How practices of digital authoritarianism harm democracy." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826), 33(1), 2026.
+- Schafer, D.G., Maerz, S.F., Schneider, C.Q., & Krasnokutskaya, A. "'Strongmen' Don't Redistribute: Illiberal Leaders on the Right and Worsening Economic Inequality." [*Politics and Governance*](https://www.cogitatiopress.com/politicsandgovernance/article/view/9812), 13, 2025.
+- Garbe, L., Maerz, S.F., & Freyburg, T. "Authoritarian collaboration and repression in the digital age." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377), Online first, 2025.
+- Edgell, A., Lachapelle, J., & Maerz, S.F. "Achieving Transparency, Traceability, and Readability with Human-Coded Data." [*PS: Political Science and Politics*](https://doi.org/10.1017/S1049096524000714), Online first, 2024.
+- Maerz, S.F., Edgell, A.B., Wilson, M.C., Hellmeier, S., & Lindberg, S.I. "Episodes of Regime Transformation." [*Journal of Peace Research*](https://journals.sagepub.com/doi/10.1177/00223433231168192), 61(6), 2024.
+- Wilson, M.C., Medzihorsky, J., Maerz, S.F., et al. "Episodes of liberalization in autocracies: A new approach to quantitatively studying democratization." [*Political Science Research and Methods*](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/episodes-of-liberalization-in-autocracies-a-new-approach-to-quantitatively-studying-democratization/CD86064BF11FEEC8BD9354921E3C9BE3), 11(3), 2023.
+- Edgell, A.B., Boese, V.A., Maerz, S.F., Lindenfors, P., & Lindberg, S.I. "Establishing pathways to democracy using domination analysis." [*British Journal of Political Science*](https://doi.org/10.1017/S000712342100020X), 52(3), 2022.
+- Edgell, A.B., Lachapelle, J., Lührmann, A., & Maerz, S.F. "Pandemic Backsliding: Violations of Democratic Standards During Covid-19." [*Social Science and Medicine*](https://www.sciencedirect.com/science/article/pii/S0277953621005761), 285, 2021.
+- Boese, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., & Lindberg, S.I. "How democracies prevail: democratic resilience as a two-stage process." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1891413), 28(5), 2021.
+- Hellmeier, S., Cole, R., Grahn, S., Kolvani, P., Lachapelle, J., Lührmann, A., Maerz, S.F., Pillai, S., & Lindberg, S.I. "State of the world 2020: Autocratization turns viral." [*Democratization*](https://doi.org/10.1080/13510347.2021.1922390), 28(6), 2021.
+- Maerz, S.F., Lührmann, A., Hellmeier, S., Grahn, S., & Lindberg, S.I. "State of the World 2019: Autocratization Surges – Resistance Grows." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1758670), 27(6), 2020.
+- Maerz, S.F. "The Many Faces of Authoritarian Persistence: A Set-Theory Perspective on the Survival Strategies of Authoritarian Regimes." [*Government and Opposition*](https://www.cambridge.org/core/journals/government-and-opposition/article/many-faces-of-authoritarian-persistence-a-settheory-perspective-on-the-survival-strategies-of-authoritarian-regimes/7FCA47E0A5C484EB18A0744E04641886), 55(1), 64–87, 2020.
+- Maerz, S.F. & Schneider, C.Q. "Comparing Public Communication in Democracies and Autocracies: Automated Text Analyses of Speeches by Heads of Government." [*Quality and Quantity*](http://link.springer.com/article/10.1007/s11135-019-00885-7), 54, 517–545, 2019.
+- Maerz, S.F. "Simulating Pluralism: The Language of Democracy in Hegemonic Authoritarianism." [*Political Research Exchange*](https://doi.org/10.1080/2474736X.2019.1605834), 2019.
+- Maerz, S.F. "Ma'naviyat in Uzbekistan: An Ideological Extrication from Its Soviet Past?" [*Journal of Political Ideologies*](http://dx.doi.org/10.1080/13569317.2018.1419448), 23(2), 205–222, 2018.
+- Schneider, C.Q. & Maerz, S.F. "Legitimation, Cooptation, and Repression and the Survival of Electoral Autocracies." [*Zeitschrift für Vergleichende Politikwissenschaft*](http://link.springer.com/article/10.1007/s12286-017-0332-2), 11(2), 213–235, 2017.
+- Maerz, S.F. "The Electronic Face of Authoritarianism: E-Government as a Tool for Gaining Legitimacy in Competitive and Non-Competitive Regimes." [*Government Information Quarterly*](http://www.sciencedirect.com/science/article/pii/S0740624X16301484), 33(4), 727–735, 2016.
+
+## Book Chapters, Reviews & Translations
+
+- Stier, S. & Maerz, S.F. "Computational Methods." In *Handbook of Comparative Politics* (Springer), ed. Marianne Kneuer et al., forthcoming.
+- Maerz, S.F. "The Internet and Autocratization." Chapter 15 in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), ed. Aurel Croissant & Luca Tomini, 2024.
+- Maerz, S.F., Schulte, F., & Trinn, C. "Autocratization and Political Conflict." Chapter 31 in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
+- Boese-Schlosser, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., Sato, Y., Wilson, M.C., & Lindberg, S.I. "Identifying Episodes of Autocratization." Chapter 4 in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
+- Lindberg, S.I. et al. (incl. Maerz, S.F.). "Liberal Demokrati i Riskzonen – autokratisering blir viral." In *Demokratin Som Bildningsväg*, Carlssons Bokförlag, 2022.
+- Maerz, S.F. & Puschmann, C. "Automated Content Analysis for Conflict Research: A Literature Survey." In [*Computational Conflict Research*](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29333-8.pdf), Springer, 2020. Open Access.
+- Maerz, S.F. Book review: Rollberg, P. & Laruelle, M. (eds.), *Mass Media in the Post-Soviet World*. *Europe-Asia Studies* 71(5), 2019.
+- Maerz, S.F., Kraayvanger, A.-L., Bahlo, S., & Aripova, B. "Beim Uloq (1915), Der Zweifel (1935)." Translations from Uzbek. In *Abdulla Qodiriy & seine Zeit. Festschrift für Barno Aripova* (ed. by Ingeborg Baldauf et al.), Edition Tethys, 2018.
+
+## Policy Reports & Briefs
+
+- Maerz, S.F., Chernykh, S., & Sanhueza Petrarca, C. "Addressing AI-Powered Threats to Democracy." [Policy Report for Robert Schumann Center (EUI)](https://cadmus.eui.eu/entities/publication/b851f50c-5208-4e2b-a766-dba5f1b7bc3d) and European Commission, 2026. *Commissioned work.*
+- Garbe, L., Maerz, S.F., & Freyburg, T. "Wie Autokratien im Digitalen kooperieren." [*De Facto*](https://www.defacto.expert/2026/02/04/wie-autokratien-im-digitalen-kooperieren-und-warum-das-folgen-fuer-die-informationsfreiheit-hat/), 2026.
+- Maerz, S.F., Edgell, A.B., & Lachapelle, J. "Pandemic Backsliding – Demokratien im Ausnahmezustand während COVID-19." [*De Facto*](https://www.defacto.expert/2022/03/29/pandemic-backsliding-demokratien-im-ausnahmezustand-waehrend-covid-19/), 2022.
+- Edgell, A.B., Wilson, M.C., & Maerz, S.F. "Episodes of Regime Transformation." [*APSA Comparative Politics Newsletter*](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2021/05/2021_spring.pdf), Spring 2021.
+- Maerz, S.F. & Mechkova, V. Policy Report for USAID on e-government, 2021. *Commissioned work.*
+- Kolvani, P. et al. (incl. Maerz, S.F.). "Pandemic Backsliding: Democracy and Disinformation Seven Months into the Covid-19 Pandemic." [Policy Brief 25](https://www.v-dem.net/publications/briefing-papers/), V-Dem Institute, 2020.
+- Edgell, A.B. et al. (incl. Maerz, S.F.). "An Update on Pandemic Backsliding." [Policy Brief 24](https://www.v-dem.net/publications/briefing-papers/), V-Dem Institute, 2020.
+- Lührmann, A., Edgell, A.B., & Maerz, S.F. "Pandemic Backsliding: Does Covid-19 Put Democracy at Risk?" [Policy Brief 23](https://www.v-dem.net/publications/briefing-papers/), V-Dem Institute, 2020.
+
+## V-Dem Democracy Reports
+
+- Alizada, N. et al. (incl. Maerz, S.F.). *Autocratization Turns Viral*, [Democracy Report 2021](https://www.v-dem.net/publications/democracy-reports/). V-Dem Institute.
+- Lührmann, A. et al. (incl. Maerz, S.F.). *Autocratization Surges – Resistance Grows*, [Democracy Report 2020](https://www.v-dem.net/publications/democracy-reports/). V-Dem Institute.
+
+## R Packages
+
+- Maerz, S.F. & Benoit, K. **quallmer** – R package for Qualitative Analysis with LLMs, 2026. [quallmer.github.io/quallmer](https://quallmer.github.io/quallmer/)
+- Maerz, S.F. & Benoit, K. **quanteda.llm** – LLM support for quanteda, 2025. 
+- Maerz, S.F., Edgell, A.B., Hellmeier, S., & Ilchenko, N. **vdemdata** – R package for V-Dem data, 2025. [github.com/vdeminstitute/vdemdata](https://github.com/vdeminstitute/vdemdata)
+- Maerz, S.F. et al. **ERT** – R package for ERT dataset, 2025. [github.com/vdeminstitute/ERT](https://github.com/vdeminstitute/ERT)
+
+
+## Teaching
+
+**Seminars and Lectures**
+
+- **University of Melbourne:** Quantitative Methods (PhD), Authoritarian Politics (BA, co-coordinator), Decoding Democracy (BA), Communicating Social Science Research (BA Honours), Researching Politics and Policy (PhD), Applied Political Science Project (BA, incl. R coding seminar)
+- **Goethe University Frankfurt:** Measuring Democracy (MA)
+- **University of Gothenburg:** Varieties of Democracy (MA, co-coordinator)
+- **Bard College Berlin:** Introduction to Statistics (BA), Measuring Democracy and Autocracy (BA)
+- **University of Freiburg:** Democratization & Authoritarianism (BA/MA), Qualitative Methods (MA)
+- **CEU Budapest:** Research Design, Set Methods and QCA (Guest lecture), Comparative Politics (TA), Central Asia (TA)
+
+**Online Methods Workshops**
+
+- [*ekomex* 2026](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models"
+- [AI-Powered Qualitative Analysis in R 2.0](https://doi.org/10.61700/X8FWPVNRRWHT12277) (with K. Benoit), Instats platform, 2026
+- [Tuning LLMs for Text Analysis](https://doi.org/10.61700/YW2IS8JTEGGA12277), Instats platform, 2026
+- [Using AI for Text Analysis: An Introduction](https://doi.org/10.61700/TI5UEXUI5ILRD1663), Instats platform, 2025
+- [Using AI for Text Analysis: Advanced Applications](https://doi.org/10.61700/NQUMT3VU2ZQ3K1816), Instats platform, 2025
+- [Quarto in RStudio: Writing Reproducible & Dynamic Research Papers](https://doi.org/10.61700/PDEAAEFQ62N681556), Instats platform, 2024
+
+## Supervision
+
+- PhD: 3 current (University of Melbourne)
+- PhD external examiner: 2 completed (Université Libre de Bruxelles, Sapienza Università di Roma)
+- MA: 4 completed (University of Gothenburg)
+- Honours: 2 completed (University of Melbourne)
+
+
+## Leadership & Service
+
+- Research Integrity Advisor, Faculty of Arts, SSPS, University of Melbourne (2026)
+- Member, Academic Programs Committee & Academic Board, University of Melbourne (2025–2026)
+- Coordinator, Political Science PhD Program, University of Melbourne (2025)
+- Co-founder, QuantLab – Network for quantitative/computational social science at UniMelb
+- Series Editor, Routledge "Democratization and Autocratization Studies"
+- Guest Editor, *Democratization* Special Issue on Digital Authoritarianism (2026)
+- Research Associate, V-Dem Institute (ongoing)
+- Deputy Director & Steering Committee Member, V-Dem Institute (2020–2021)
+- Coordinator, ERASMUS exchange programs, University of Freiburg (2018)
+- Member, organizing committee, 8th Graduate Network Conference, CEU Budapest (2016)
+- Reviewer: *AJPS*, *CPS*, *Perspectives on Politics*, *BJPS*, *JPR*, *Political Behavior*, *Democratization*, *Political Studies*, *PRQ*, *EPSR*, *IJPOR*, *Government Information Quarterly*, *Governance*, among others
+
+## Consultancy & Advisory
+
+- Amnesty International (2025) – Authoritarian practices and generative AI
+- New York Times (2022) – Illiberal discourse and text-as-data methods
+- Bloomberg (2020) – Expert commentary on illiberal public communication
+- Helsingin Sanomat (2020) – Expert commentary on V-Dem Project
+
+## Invited Talks
+
+- ANU, School of Politics and International Relations (June 2026): LLM-assisted methods
+- DEMLAB, Aristotle University of Thessaloniki (Oct. 2025, online)
+- ANU, School of Politics and International Relations (June 2025): Quantitative text analysis methods
+- Australasian Public Policy Meeting, University of Melbourne (Jan. 2025): LLMs and Text as Data
+- WZB Berlin (Dec. 2024): Detecting democratic decline with political speeches (online)
+- International IDEA & Center for New Ideas (Nov. 2024): Measuring Regime Transformations
+- University of Mainz (March 2023): **Keynote** – "Democracy in Crisis" (online)
+- University of Bremen, YISARES Autumn School (Oct. 2022): Digital Authoritarianism (online)
+- CEU Democracy Institute, CIVICA Workshop (Sept. 2022): Autocratization in Digital Public Spaces
+- GIGA Hamburg (May 2022), Aarau Democracy Days (March 2022): Pandemic Backsliding (online)
+- University of Alabama (April 2021): Public Discourse and Autocratization (online)
+- CAIS Bochum (Sept. 2018): Illiberal Public Discourse
+
+## Conferences and Workshops
+
+- 2026: ECPR Joint Sessions, Innsbruck (April), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, invited)
+
+- 2025: APSA Virtual Workshop on Computational Methods (April)
+
+- 2024: EUI Florence, Decrypting Digital Authoritarianism (Oct. 2024, invited), Melbourne Political Economy Group, Monash University (Sept. 2024), ACERG Workshop, APSA, University of Melbourne (June 2024)
+
+- 2023: ECPR General Conference, Prague (Sept.), Università degli Studi di Milano (June 2023): Identifying early autocratization (invited), WZB Berlin, TTC Workshop (Nov. 2023, invited), - CEDAR, University of Birmingham (Jan. 2023, invited)
+
+- 2022: GPSA Comparative Politics Section, Frankfurt/Oder (Sept.)
+
+- 2021: GPSA Congress (Sept.), ISA Annual Convention (April)
+
+- 2020: ECPR General Conference (Aug.)
+
+- 2019: ECPR Joint Sessions, Mons (April)
+
+- 2018: GPSA Frankfurt (Sept.), ECPR Hamburg (Aug.)
+
+- 2017: CEU Doctoral Conference (April), GPSA Tübingen (March), APSA San Francisco (Aug.)
+
+- 2016: ECPR Joint Sessions, Pisa (April), ECPR General Conference, Prague (Sept.)
+
+- 2015: University of Exeter, Nawruz Postgraduate Workshop (March, invited)
+
+- 2014: RGASPI Moscow (Aug., invited), ECPR Graduate Student Conference, Innsbruck (July)
+
+\vfill
+\begin{center}
+{\small\color{gray}Last updated: March 2026}
+\end{center}
