@@ -13,7 +13,7 @@ toc: false
 [School of Social and Political Science, University of Melbourne]{.affiliation}
 
 ::: {.contact-links}
-[LinkedIn](https://www.linkedin.com/in/seraphine-f-maerz-410286327/) · [GitHub](https://github.com/SeraphineM) · [Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de)
+[LinkedIn](https://www.linkedin.com/in/dr-seraphine-f-maerz-410286327/) · [GitHub](https://github.com/SeraphineM) · [Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de)
 :::
 :::
 
