@@ -4,10 +4,10 @@ format:
     toc: false
     number-sections: false
     geometry:
-      - top=20mm
+      - top=24mm
       - left=22mm
       - right=22mm
-      - bottom=20mm
+      - bottom=24mm
     fontsize: 10.5pt
     mainfont: "Palatino"
     linestretch: 1.1
@@ -96,21 +96,23 @@ Co-Principal Investigator
 
 ## Peer-Reviewed Journal Articles
 
-- Garbe, L. & Maerz, S.F. (Guest Editors). "The rise of authoritarian informationalism: escalating surveillance, manipulation, and control." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105), 33(1), 2026.
-- Maerz, S.F. "How practices of digital authoritarianism harm democracy." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826), 33(1), 2026.
-- Schafer, D.G., Maerz, S.F., Schneider, C.Q., & Krasnokutskaya, A. "'Strongmen' Don't Redistribute: Illiberal Leaders on the Right and Worsening Economic Inequality." [*Politics and Governance*](https://www.cogitatiopress.com/politicsandgovernance/article/view/9812), 13, 2025.
-- Garbe, L., Maerz, S.F., & Freyburg, T. "Authoritarian collaboration and repression in the digital age." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377), Online first, 2025.
-- Edgell, A., Lachapelle, J., & Maerz, S.F. "Achieving Transparency, Traceability, and Readability with Human-Coded Data." [*PS: Political Science and Politics*](https://doi.org/10.1017/S1049096524000714), Online first, 2024.
-- Maerz, S.F., Edgell, A.B., Wilson, M.C., Hellmeier, S., & Lindberg, S.I. "Episodes of Regime Transformation." [*Journal of Peace Research*](https://journals.sagepub.com/doi/10.1177/00223433231168192), 61(6), 2024.
-- Wilson, M.C., Medzihorsky, J., Maerz, S.F., et al. "Episodes of liberalization in autocracies: A new approach to quantitatively studying democratization." [*Political Science Research and Methods*](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/episodes-of-liberalization-in-autocracies-a-new-approach-to-quantitatively-studying-democratization/CD86064BF11FEEC8BD9354921E3C9BE3), 11(3), 2023.
-- Edgell, A.B., Boese, V.A., Maerz, S.F., Lindenfors, P., & Lindberg, S.I. "Establishing pathways to democracy using domination analysis." [*British Journal of Political Science*](https://doi.org/10.1017/S000712342100020X), 52(3), 2022.
-- Edgell, A.B., Lachapelle, J., Lührmann, A., & Maerz, S.F. "Pandemic Backsliding: Violations of Democratic Standards During Covid-19." [*Social Science and Medicine*](https://www.sciencedirect.com/science/article/pii/S0277953621005761), 285, 2021.
-- Boese, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., & Lindberg, S.I. "How democracies prevail: democratic resilience as a two-stage process." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1891413), 28(5), 2021.
-- Hellmeier, S., Cole, R., Grahn, S., Kolvani, P., Lachapelle, J., Lührmann, A., Maerz, S.F., Pillai, S., & Lindberg, S.I. "State of the world 2020: Autocratization turns viral." [*Democratization*](https://doi.org/10.1080/13510347.2021.1922390), 28(6), 2021.
-- Maerz, S.F., Lührmann, A., Hellmeier, S., Grahn, S., & Lindberg, S.I. "State of the World 2019: Autocratization Surges – Resistance Grows." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1758670), 27(6), 2020.
+[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,400 citations | h-index: 21 | i10-index: 25
+
+- Garbe, L. & Maerz, S.F. (Guest Editors). "The rise of authoritarian informationalism: escalating surveillance, manipulation, and control." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105), 33(1), 1–18, 2026.
+- Maerz, S.F. "How practices of digital authoritarianism harm democracy." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826), 33(1), 163–190, 2026.
+- Garbe, L., Maerz, S.F., & Freyburg, T. "Authoritarian collaboration and repression in the digital age." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377), 33(1), 85–108, 2026.
+- Schafer, D.G., Maerz, S.F., Schneider, C.Q., & Krasnokutskaya, A. "'Strongmen' Don't Redistribute: Illiberal Leaders on the Right and Worsening Economic Inequality." [*Politics and Governance*](https://www.cogitatiopress.com/politicsandgovernance/article/view/9812), 13, 1–24, 2025.
+- Edgell, A., Lachapelle, J., & Maerz, S.F. "Achieving Transparency, Traceability, and Readability with Human-Coded Data." [*PS: Political Science and Politics*](https://doi.org/10.1017/S1049096524000714), 58(2), 346–351, 2025.
+- Maerz, S.F., Edgell, A.B., Wilson, M.C., Hellmeier, S., & Lindberg, S.I. "Episodes of Regime Transformation." [*Journal of Peace Research*](https://journals.sagepub.com/doi/10.1177/00223433231168192), 61(6), 967–984, 2024.
+- Wilson, M.C., Medzihorsky, J., Maerz, S.F., et al. "Episodes of liberalization in autocracies: A new approach to quantitatively studying democratization." [*Political Science Research and Methods*](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/episodes-of-liberalization-in-autocracies-a-new-approach-to-quantitatively-studying-democratization/CD86064BF11FEEC8BD9354921E3C9BE3), 11(3), 501–520, 2023.
+- Edgell, A.B., Boese, V.A., Maerz, S.F., Lindenfors, P., & Lindberg, S.I. "Establishing pathways to democracy using domination analysis." [*British Journal of Political Science*](https://doi.org/10.1017/S000712342100020X), 52(3), 1203–1209, 2022.
+- Edgell, A.B., Lachapelle, J., Lührmann, A., & Maerz, S.F. "Pandemic Backsliding: Violations of Democratic Standards During Covid-19." [*Social Science and Medicine*](https://www.sciencedirect.com/science/article/pii/S0277953621005761), 285, 1465-1471, 2021.
+- Boese, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., & Lindberg, S.I. "How democracies prevail: democratic resilience as a two-stage process." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1891413), 28(5), 885–907, 2021.
+- Hellmeier, S., Cole, R., Grahn, S., Kolvani, P., Lachapelle, J., Lührmann, A., Maerz, S.F., Pillai, S., & Lindberg, S.I. "State of the world 2020: Autocratization turns viral." [*Democratization*](https://doi.org/10.1080/13510347.2021.1922390), 28(6), 1053–1074, 2021.
+- Maerz, S.F., Lührmann, A., Hellmeier, S., Grahn, S., & Lindberg, S.I. "State of the World 2019: Autocratization Surges – Resistance Grows." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1758670), 27(6), 909–927, 2020.
 - Maerz, S.F. "The Many Faces of Authoritarian Persistence: A Set-Theory Perspective on the Survival Strategies of Authoritarian Regimes." [*Government and Opposition*](https://www.cambridge.org/core/journals/government-and-opposition/article/many-faces-of-authoritarian-persistence-a-settheory-perspective-on-the-survival-strategies-of-authoritarian-regimes/7FCA47E0A5C484EB18A0744E04641886), 55(1), 64–87, 2020.
 - Maerz, S.F. & Schneider, C.Q. "Comparing Public Communication in Democracies and Autocracies: Automated Text Analyses of Speeches by Heads of Government." [*Quality and Quantity*](http://link.springer.com/article/10.1007/s11135-019-00885-7), 54, 517–545, 2019.
-- Maerz, S.F. "Simulating Pluralism: The Language of Democracy in Hegemonic Authoritarianism." [*Political Research Exchange*](https://doi.org/10.1080/2474736X.2019.1605834), 2019.
+- Maerz, S.F. "Simulating Pluralism: The Language of Democracy in Hegemonic Authoritarianism." [*Political Research Exchange*](https://doi.org/10.1080/2474736X.2019.1605834), 1(1), 1–23, 2019.
 - Maerz, S.F. "Ma'naviyat in Uzbekistan: An Ideological Extrication from Its Soviet Past?" [*Journal of Political Ideologies*](http://dx.doi.org/10.1080/13569317.2018.1419448), 23(2), 205–222, 2018.
 - Schneider, C.Q. & Maerz, S.F. "Legitimation, Cooptation, and Repression and the Survival of Electoral Autocracies." [*Zeitschrift für Vergleichende Politikwissenschaft*](http://link.springer.com/article/10.1007/s12286-017-0332-2), 11(2), 213–235, 2017.
 - Maerz, S.F. "The Electronic Face of Authoritarianism: E-Government as a Tool for Gaining Legitimacy in Competitive and Non-Competitive Regimes." [*Government Information Quarterly*](http://www.sciencedirect.com/science/article/pii/S0740624X16301484), 33(4), 727–735, 2016.
@@ -118,12 +120,12 @@ Co-Principal Investigator
 ## Book Chapters, Reviews & Translations
 
 - Stier, S. & Maerz, S.F. "Computational Methods." In *Handbook of Comparative Politics* (Springer), ed. Marianne Kneuer et al., forthcoming.
-- Maerz, S.F. "The Internet and Autocratization." Chapter 15 in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), ed. Aurel Croissant & Luca Tomini, 2024.
-- Maerz, S.F., Schulte, F., & Trinn, C. "Autocratization and Political Conflict." Chapter 31 in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
-- Boese-Schlosser, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., Sato, Y., Wilson, M.C., & Lindberg, S.I. "Identifying Episodes of Autocratization." Chapter 4 in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
+- Maerz, S.F. "The Internet and Autocratization." Chapter 15, pp. 175–187, in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), ed. Aurel Croissant & Luca Tomini, 2024.
+- Maerz, S.F., Schulte, F., & Trinn, C. "Autocratization and Political Conflict." Chapter 31, pp. 380–393, in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
+- Boese-Schlosser, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., Sato, Y., Wilson, M.C., & Lindberg, S.I. "Identifying Episodes of Autocratization." Chapter 5, pp. 65–76, in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
 - Lindberg, S.I. et al. (incl. Maerz, S.F.). "Liberal Demokrati i Riskzonen – autokratisering blir viral." In *Demokratin Som Bildningsväg*, Carlssons Bokförlag, 2022.
-- Maerz, S.F. & Puschmann, C. "Automated Content Analysis for Conflict Research: A Literature Survey." In [*Computational Conflict Research*](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29333-8.pdf), Springer, 2020. Open Access.
-- Maerz, S.F. Book review: Rollberg, P. & Laruelle, M. (eds.), *Mass Media in the Post-Soviet World*. *Europe-Asia Studies* 71(5), 2019.
+- Maerz, S.F. & Puschmann, C. "Text as Data for Conflict Research: A Literature Survey." pp. 43–65, in [*Computational Conflict Research*](https://link.springer.com/chapter/10.1007/978-3-030-29333-8_3), Springer, 2020. Open Access.
+- Maerz, S.F. Book review: Rollberg, P. & Laruelle, M. (eds.), *Mass Media in the Post-Soviet World*. [*Europe-Asia Studies*](https://doi.org/10.1080/09668136.2019.1618575) 71(5), 863–865, 2019.
 - Maerz, S.F., Kraayvanger, A.-L., Bahlo, S., & Aripova, B. "Beim Uloq (1915), Der Zweifel (1935)." Translations from Uzbek. In *Abdulla Qodiriy & seine Zeit. Festschrift für Barno Aripova* (ed. by Ingeborg Baldauf et al.), Edition Tethys, 2018.
 
 ## Policy Reports & Briefs
@@ -142,19 +144,29 @@ Co-Principal Investigator
 - Alizada, N. et al. (incl. Maerz, S.F.). *Autocratization Turns Viral*, [Democracy Report 2021](https://www.v-dem.net/publications/democracy-reports/). V-Dem Institute.
 - Lührmann, A. et al. (incl. Maerz, S.F.). *Autocratization Surges – Resistance Grows*, [Democracy Report 2020](https://www.v-dem.net/publications/democracy-reports/). V-Dem Institute.
 
-## R Packages
+## Datasets & R Packages
+
+**Datasets**
+
+- [**ERT**](https://github.com/vdeminstitute/ert) – Episodes of Regime Transformation dataset, V-Dem Institute (co-developer)
+- [**PanDem**](https://github.com/vdeminstitute/pandem) – Pandemic Backsliding dataset, V-Dem Institute (co-developer)
+- [**V-Dem (v.11)**](https://www.v-dem.net/data/the-v-dem-dataset/) – Varieties of Democracy dataset, v.11, V-Dem Institute (contributor)
+- [**TOSCO 2.0**](https://tosco.shinyapps.io/data/) – Telecommunications Ownership and Control dataset (co-developer)
+
+**R Packages**
 
 - Maerz, S.F. & Benoit, K. **quallmer** – R package for Qualitative Analysis with LLMs, 2026. [quallmer.github.io/quallmer](https://quallmer.github.io/quallmer/)
-- Maerz, S.F. & Benoit, K. **quanteda.llm** – LLM support for quanteda, 2025. 
-- Maerz, S.F., Edgell, A.B., Hellmeier, S., & Ilchenko, N. **vdemdata** – R package for V-Dem data, 2025. [github.com/vdeminstitute/vdemdata](https://github.com/vdeminstitute/vdemdata)
-- Maerz, S.F. et al. **ERT** – R package for ERT dataset, 2025. [github.com/vdeminstitute/ERT](https://github.com/vdeminstitute/ERT)
+- Maerz, S.F., Edgell, A.B., Hellmeier, S., & Ilchenko, N. **vdemdata** – R package for V-Dem data, 2026. [github.com/vdeminstitute/vdemdata](https://github.com/vdeminstitute/vdemdata)
+- Maerz, S.F. et al. **ERT** – R package for ERT dataset, 2026. [github.com/vdeminstitute/ERT](https://github.com/vdeminstitute/ERT)
+- Maerz, S.F. & Benoit, K. **quanteda.llm** – LLM support for quanteda, 2025.
+- Maerz, S.F. **audacola** – R package for Automated Data Collection and Analysis, 2020. [https://github.com/SeraphineM/audacola](https://github.com/SeraphineM/audacola)
 
 
 ## Teaching
 
 **Seminars and Lectures**
 
-- **University of Melbourne:** Quantitative Methods (PhD), Authoritarian Politics (BA, co-coordinator), Decoding Democracy (BA), Communicating Social Science Research (BA Honours), Researching Politics and Policy (PhD), Applied Political Science Project (BA, incl. R coding seminar)
+- **University of Melbourne:** Quantitative Methods (PhD), Authoritarian Politics (BA, co-coordinator), Decoding Democracy (BA), Communicating Social Science Research (BA Honours), Researching Politics and Policy (PhD), Applied Political Science Project (BA, co-coordinator, R coding seminar)
 - **Goethe University Frankfurt:** Measuring Democracy (MA)
 - **University of Gothenburg:** Varieties of Democracy (MA, co-coordinator)
 - **Bard College Berlin:** Introduction to Statistics (BA), Measuring Democracy and Autocracy (BA)
@@ -172,7 +184,7 @@ Co-Principal Investigator
 
 ## Supervision
 
-- PhD: 3 current (University of Melbourne)
+- PhD: 3 current (University of Melbourne; 2 as principal supervisor, 1 as co-supervisor)
 - PhD external examiner: 2 completed (Université Libre de Bruxelles, Sapienza Università di Roma)
 - MA: 4 completed (University of Gothenburg)
 - Honours: 2 completed (University of Melbourne)
@@ -201,9 +213,10 @@ Co-Principal Investigator
 
 ## Invited Talks
 
-- ANU, School of Politics and International Relations (June 2026): LLM-assisted methods
+- ANU, School of Politics and International Relations (June 2026): LLM-assisted methods workshop; SPIR seminar series
+- Griffith University, Brisbane (April 2026): PhD workshop on LLMs for text analysis; PolSci research seminar
 - DEMLAB, Aristotle University of Thessaloniki (Oct. 2025, online)
-- ANU, School of Politics and International Relations (June 2025): Quantitative text analysis methods
+- ANU, School of Politics and International Relations (June 2025): Quantitative text analysis methods workshop; SPIR seminar series
 - Australasian Public Policy Meeting, University of Melbourne (Jan. 2025): LLMs and Text as Data
 - WZB Berlin (Dec. 2024): Detecting democratic decline with political speeches (online)
 - International IDEA & Center for New Ideas (Nov. 2024): Measuring Regime Transformations
@@ -216,13 +229,13 @@ Co-Principal Investigator
 
 ## Conferences and Workshops
 
-- 2026: ECPR Joint Sessions, Innsbruck (April), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, invited)
+- 2026: ECPR Joint Sessions, Innsbruck (April), APSA Virtual Workshop on LLMs in Political Science (April), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, invited)
 
 - 2025: APSA Virtual Workshop on Computational Methods (April)
 
 - 2024: EUI Florence, Decrypting Digital Authoritarianism (Oct. 2024, invited), Melbourne Political Economy Group, Monash University (Sept. 2024), ACERG Workshop, APSA, University of Melbourne (June 2024)
 
-- 2023: ECPR General Conference, Prague (Sept.), Università degli Studi di Milano (June 2023): Identifying early autocratization (invited), WZB Berlin, TTC Workshop (Nov. 2023, invited), - CEDAR, University of Birmingham (Jan. 2023, invited)
+- 2023: ECPR General Conference, Prague (Sept.) – **Section organizer** "Digital Authoritarianism" with multiple panels (with L. Garbe), Università degli Studi di Milano (June 2023): Identifying early autocratization (invited), WZB Berlin, TTC Workshop (Nov. 2023, invited), CEDAR, University of Birmingham (Jan. 2023, invited)
 
 - 2022: GPSA Comparative Politics Section, Frankfurt/Oder (Sept.)
 
