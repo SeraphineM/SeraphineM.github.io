@@ -96,8 +96,9 @@ Co-Principal Investigator
 
 ## Peer-Reviewed Journal Articles
 
-[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,400 citations | h-index: 21 | i10-index: 25
+[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,658 citations | h-index: 21 | i10-index: 25
 
+- Maerz, S.F., Schafer, D.G., & Schneider, C.Q. "Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline." *Comparative Political Studies*, forthcoming.
 - Garbe, L. & Maerz, S.F. (Guest Editors). "The rise of authoritarian informationalism: escalating surveillance, manipulation, and control." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105), 33(1), 1–18, 2026.
 - Maerz, S.F. "How practices of digital authoritarianism harm democracy." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826), 33(1), 163–190, 2026.
 - Garbe, L., Maerz, S.F., & Freyburg, T. "Authoritarian collaboration and repression in the digital age." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377), 33(1), 85–108, 2026.
@@ -176,7 +177,7 @@ Co-Principal Investigator
 **Online Methods Workshops**
 
 - [*ekomex* 2026](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models"
-- [AI-Powered Qualitative Analysis in R 2.0](https://doi.org/10.61700/X8FWPVNRRWHT12277) (with K. Benoit), Instats platform, 2026
+- [AI-Powered Qualitative Analysis in R](https://doi.org/10.61700/X8FWPVNRRWHT12277) (with K. Benoit), Instats platform, 2026
 - [Tuning LLMs for Text Analysis](https://doi.org/10.61700/YW2IS8JTEGGA12277), Instats platform, 2026
 - [Using AI for Text Analysis: An Introduction](https://doi.org/10.61700/TI5UEXUI5ILRD1663), Instats platform, 2025
 - [Using AI for Text Analysis: Advanced Applications](https://doi.org/10.61700/NQUMT3VU2ZQ3K1816), Instats platform, 2025
@@ -192,11 +193,12 @@ Co-Principal Investigator
 
 ## Leadership & Service
 
+- Faculty Representative in the University of Melbourne's AI for Research Committee (2026–present)
 - Research Integrity Advisor, Faculty of Arts, SSPS, University of Melbourne (2026)
-- Member, Academic Programs Committee & Academic Board, University of Melbourne (2025–2026)
+- Academic Programs Committee & Academic Board member, University of Melbourne (2025–2026)
 - Coordinator, Political Science PhD Program, University of Melbourne (2025)
-- Co-founder, QuantLab – Network for quantitative/computational social science at UniMelb
-- Series Editor, Routledge "Democratization and Autocratization Studies"
+- Co-founder, QuantLab – Network for quantitative/computational social science at UniMelb (2024–present)
+- Series Editor, Routledge "Democratization and Autocratization Studies" (2022–present)
 - Guest Editor, *Democratization* Special Issue on Digital Authoritarianism (2026)
 - Research Associate, V-Dem Institute (ongoing)
 - Deputy Director & Steering Committee Member, V-Dem Institute (2020–2021)
@@ -211,10 +213,14 @@ Co-Principal Investigator
 - Bloomberg (2020) – Expert commentary on illiberal public communication
 - Helsingin Sanomat (2020) – Expert commentary on V-Dem Project
 
-## Invited Talks
+## Invited Talks and Events
 
+- [FIRSA Webinar](https://firsa.eu/posts/llms_webinar/) (June 2026): "Quantitative Text Analysis in the Age of LLMs"
+- SICSS Melbourne, Australian Internet Observatory (June 2026): LLMs for Text Analysis workshop
 - ANU, School of Politics and International Relations (June 2026): LLM-assisted methods workshop; SPIR seminar series
+- MDAP, University of Melbourne (May 2026): Panelists on "The Light & Dark Side of Vibe Coding in Digital Humanities"
 - Griffith University, Brisbane (April 2026): PhD workshop on LLMs for text analysis; PolSci research seminar
+- SSPS, Faculty of Arts, University of Melbourne (March 2026): Organisation and chairing of a roundtable on "Responsible AI-Use in Research: Between Integrity and Innovation"
 - DEMLAB, Aristotle University of Thessaloniki (Oct. 2025, online)
 - ANU, School of Politics and International Relations (June 2025): Quantitative text analysis methods workshop; SPIR seminar series
 - Australasian Public Policy Meeting, University of Melbourne (Jan. 2025): LLMs and Text as Data
@@ -229,7 +235,7 @@ Co-Principal Investigator
 
 ## Conferences and Workshops
 
-- 2026: ECPR Joint Sessions, Innsbruck (April), APSA Virtual Workshop on LLMs in Political Science (April), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, invited)
+- 2026: ECPR Joint Sessions, Innsbruck (April), APSA Virtual Workshop on LLMs in Political Science (April), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, online), EPSS in Belfast, UK (June, incl. pre-conference workshop on "LLM-assisted text analysis" with K. Benoit), Workshop on AI for Democracy Research, University of Notre Dame, US (Oct. 2026, invited)
 
 - 2025: APSA Virtual Workshop on Computational Methods (April)
 
@@ -257,5 +263,5 @@ Co-Principal Investigator
 
 \vfill
 \begin{center}
-{\small\color{gray}Last updated: March 2026}
+{\small\color{gray}Last updated: June 2026}
 \end{center}
