@@ -207,6 +207,10 @@ Citation: Michael Coppedge, John Gerring, Carl Henrik Knutsen, Staffan I. Lindbe
 - [Using AI for Text Analysis: Advanced Applications](https://doi.org/10.61700/NQUMT3VU2ZQ3K1816), Instats platform, 2025
 - [Quarto in RStudio: Writing Reproducible & Dynamic Research Papers](https://doi.org/10.61700/PDEAAEFQ62N681556), Instats platform, 2024
 
+#### Free tutorials and webinars
+
+Through [QuantLab Sharezone](https://quantilab.github.io/sharezone/), I contribute free educational resources on quantitative methods and computational techniques. The hub offers step-by-step guides, recorded webinars, and downloadable materials from QuantLunch sessions, covering topics such as text analysis with large language models (using R packages like *quallmer* and *quanteda.llm*), reproducible research with Quarto and RStudio, GitHub collaboration, and building academic websites.
+
 #### Supervision
 
 - PhD: 3 current (University of Melbourne)
