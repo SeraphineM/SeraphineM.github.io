@@ -34,12 +34,13 @@ format:
 {\fontsize{22}{26}\selectfont\addfontfeatures{LetterSpace=8}\textsc{Dr. Seraphine F. Maerz}}\\[0.3cm]
 {\small\color{gray}\rule{4cm}{0.4pt}}\\[0.25cm]
 {\normalsize Senior Lecturer in Political Science (Research Methods)}\\[0.05cm]
-{\normalsize\href{https://findanexpert.unimelb.edu.au/profile/1051597-seraphine-maerz}{School of Social and Political Science, University of Melbourne}}\\[0.25cm]
+{\normalsize\href{https://findanexpert.unimelb.edu.au/profile/1051597-seraphine-maerz}{School of Social and Political Science, University of Melbourne}}\\[0.12cm]
+{\small\color{gray}Computational social science · political communication · digital authoritarianism · democratic resilience}\\[0.25cm]
 {\small
 \href{mailto:seraphine.maerz@unimelb.edu.au}{seraphine.maerz@unimelb.edu.au} · \href{https://seraphinem.github.io}{seraphinem.github.io}}\\[0.08cm]
 {\small
 \href{https://www.linkedin.com/in/dr-seraphine-f-maerz-410286327/}{LinkedIn} · \href{https://scholar.google.com/citations?user=Bp3m4N0AAAAJ&hl=de}{Google Scholar} · \href{https://github.com/SeraphineM}{GitHub}}\\[0.08cm]
-{\small\textit{Co-founder of \href{https://quantilab.github.io/}{QuantLab} · Co-developer of \href{https://quallmer.github.io/quallmer/}{quallmer}}}
+{\small\textit{Co-founder of \href{https://quantilab.github.io/}{QuantLab}} · Co-developer of \href{https://quallmer.github.io/quallmer/}{quallmer}}
 \end{center}
 
 \vspace{0.4cm}
@@ -94,12 +95,16 @@ Co-Principal Investigator
 - Visiting Researcher, UC Berkeley, Department of Political Science (August–September 2017)
 - Academic Achievement Award for First-Year Doctoral Students, CEU Budapest (2015)
 
+## Books / Special Issues
+
+- Maerz, S.F. & Benoit, K. *AI-Assisted Content Analysis.* SAGE Publications (under contract).
+- Garbe, L. & Maerz, S.F. Special Issue: "The rise of authoritarian informationalism: escalating surveillance, manipulation, and control." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105), 33(1), 2026. Editors' introduction: 1–18.
+
 ## Peer-Reviewed Journal Articles
 
-[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,658 citations | h-index: 21 | i10-index: 25
+[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,841 citations | h-index: 22 | i10-index: 26
 
 - Maerz, S.F., Schafer, D.G., & Schneider, C.Q. "Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline." *Comparative Political Studies*, forthcoming.
-- Garbe, L. & Maerz, S.F. (Guest Editors). "The rise of authoritarian informationalism: escalating surveillance, manipulation, and control." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2579105), 33(1), 1–18, 2026.
 - Maerz, S.F. "How practices of digital authoritarianism harm democracy." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826), 33(1), 163–190, 2026.
 - Garbe, L., Maerz, S.F., & Freyburg, T. "Authoritarian collaboration and repression in the digital age." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377), 33(1), 85–108, 2026.
 - Schafer, D.G., Maerz, S.F., Schneider, C.Q., & Krasnokutskaya, A. "'Strongmen' Don't Redistribute: Illiberal Leaders on the Right and Worsening Economic Inequality." [*Politics and Governance*](https://www.cogitatiopress.com/politicsandgovernance/article/view/9812), 13, 1–24, 2025.
@@ -118,9 +123,10 @@ Co-Principal Investigator
 - Schneider, C.Q. & Maerz, S.F. "Legitimation, Cooptation, and Repression and the Survival of Electoral Autocracies." [*Zeitschrift für Vergleichende Politikwissenschaft*](http://link.springer.com/article/10.1007/s12286-017-0332-2), 11(2), 213–235, 2017.
 - Maerz, S.F. "The Electronic Face of Authoritarianism: E-Government as a Tool for Gaining Legitimacy in Competitive and Non-Competitive Regimes." [*Government Information Quarterly*](http://www.sciencedirect.com/science/article/pii/S0740624X16301484), 33(4), 727–735, 2016.
 
-## Book Chapters, Reviews & Translations
+## Book chapters, and other publications
 
 - Stier, S. & Maerz, S.F. "Computational Methods." In *Handbook of Comparative Politics* (Springer), ed. Marianne Kneuer et al., forthcoming.
+- Maerz, S.F. "Tech-Autokratie. Wie digitale Macht politische Systeme verändert." [*Aus Politik und Zeitgeschichte (APuZ)*](https://www.bpb.de/shop/zeitschriften/apuz/autoritarismus-2026/), 35–37/2026 ("Autoritarismus"), Bundeszentrale für politische Bildung (Federal Agency for Civic Education), 2026.
 - Maerz, S.F. "The Internet and Autocratization." Chapter 15, pp. 175–187, in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), ed. Aurel Croissant & Luca Tomini, 2024.
 - Maerz, S.F., Schulte, F., & Trinn, C. "Autocratization and Political Conflict." Chapter 31, pp. 380–393, in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
 - Boese-Schlosser, V.A., Edgell, A.B., Hellmeier, S., Maerz, S.F., Sato, Y., Wilson, M.C., & Lindberg, S.I. "Identifying Episodes of Autocratization." Chapter 5, pp. 65–76, in [*Routledge Handbook of Autocratization*](https://www.routledge.com/The-Routledge-Handbook-of-Autocratization/Croissant-Tomini/p/book/9781032308333), 2024.
@@ -156,10 +162,10 @@ Co-Principal Investigator
 
 **R Packages**
 
-- Maerz, S.F. & Benoit, K. **quallmer** – R package for Qualitative Analysis with LLMs, 2026. [quallmer.github.io/quallmer](https://quallmer.github.io/quallmer/)
+- Maerz, S.F. & Benoit, K. **quallmer** – R package for Qualitative Analysis with LLMs, 2026. [quallmer.github.io/quallmer](https://quallmer.github.io/quallmer/) (website includes free tutorials and worked illustrations)
 - Maerz, S.F., Edgell, A.B., Hellmeier, S., & Ilchenko, N. **vdemdata** – R package for V-Dem data, 2026. [github.com/vdeminstitute/vdemdata](https://github.com/vdeminstitute/vdemdata)
 - Maerz, S.F. et al. **ERT** – R package for ERT dataset, 2026. [github.com/vdeminstitute/ERT](https://github.com/vdeminstitute/ERT)
-- Maerz, S.F. & Benoit, K. **quanteda.llm** – LLM support for quanteda, 2025.
+- Maerz, S.F. & Benoit, K. **quanteda.llm** – LLM support for quanteda, 2025. [quanteda.github.io/quanteda.llm](https://quanteda.github.io/quanteda.llm/)
 - Maerz, S.F. **audacola** – R package for Automated Data Collection and Analysis, 2020. [https://github.com/SeraphineM/audacola](https://github.com/SeraphineM/audacola)
 
 
@@ -176,7 +182,9 @@ Co-Principal Investigator
 
 **Online Methods Workshops**
 
+- [*ekomex* 2027](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models" (upcoming)
 - [*ekomex* 2026](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models"
+- [AI-Assisted Content Analysis](https://instats.org/seminar/ai-assisted-content-analysis) (with K. Benoit), Instats platform, 2026
 - [AI-Powered Qualitative Analysis in R](https://doi.org/10.61700/X8FWPVNRRWHT12277) (with K. Benoit), Instats platform, 2026
 - [Tuning LLMs for Text Analysis](https://doi.org/10.61700/YW2IS8JTEGGA12277), Instats platform, 2026
 - [Using AI for Text Analysis: An Introduction](https://doi.org/10.61700/TI5UEXUI5ILRD1663), Instats platform, 2025
@@ -197,7 +205,7 @@ Co-Principal Investigator
 - Research Integrity Advisor, Faculty of Arts, SSPS, University of Melbourne (2026)
 - Academic Programs Committee & Academic Board member, University of Melbourne (2025–2026)
 - Coordinator, Political Science PhD Program, University of Melbourne (2025)
-- Co-founder, QuantLab – Network for quantitative/computational social science at UniMelb (2024–present)
+- Co-founder and convenor, [QuantLab](https://quantilab.github.io/) – Network and seminar/workshop series for quantitative and computational social science at UniMelb (2024–present)
 - Series Editor, Routledge "Democratization and Autocratization Studies" (2022–present)
 - Guest Editor, *Democratization* Special Issue on Digital Authoritarianism (2026)
 - Research Associate, V-Dem Institute (ongoing)
@@ -235,7 +243,7 @@ Co-Principal Investigator
 
 ## Conferences and Workshops
 
-- 2026: ECPR Joint Sessions, Innsbruck (April), APSA Virtual Workshop on LLMs in Political Science (April), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, online), EPSS in Belfast, UK (June, incl. pre-conference workshop on "LLM-assisted text analysis" with K. Benoit), Workshop on AI for Democracy Research, University of Notre Dame, US (Oct. 2026, invited)
+- 2026: Workshop on AI for Democracy Research, University of Notre Dame, US (Oct., invited), EPSS in Belfast, UK (June, incl. pre-conference workshop on "LLM-assisted text analysis" with K. Benoit), WZB Berlin, Transformations of Democracy, Kick-off Workshop (May, online), APSA Virtual Workshop on LLMs in Political Science (April), ECPR Joint Sessions, Innsbruck (April)
 
 - 2025: APSA Virtual Workshop on Computational Methods (April)
 
@@ -263,5 +271,5 @@ Co-Principal Investigator
 
 \vfill
 \begin{center}
-{\small\color{gray}Last updated: June 2026}
+{\small\color{gray}Last updated: September 2026}
 \end{center}

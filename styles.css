@@ -1,157 +1,216 @@
-/* Modern minimal academic website styles */
+/* ============================================================
+   Academic website — light (litera) theme, single teal accent
+   ============================================================ */
 
-/* Smooth scrolling */
-html {
-  scroll-behavior: smooth;
+:root {
+  --accent: #0f766e;
+  --accent-dark: #0b5c56;
+  --ink: #1f2328;
+  --muted: #5c636a;
+  --rule: #e3e3e3;
 }
 
-/* Hero section */
+html { scroll-behavior: smooth; }
+
+body { color: var(--ink); }
+
+/* Litera styles <p> as serif but lists/headings stay sans — unify all
+   body copy to one sans family so paragraphs and lists match. */
+p, ul, ol, li, dl, dd, blockquote, figcaption, .about, table {
+  font-family: var(--bs-body-font-family);
+}
+
+/* ---- Links: teal, no resting underline, underline only on hover/focus ---- */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+a:hover,
+a:focus-visible {
+  color: var(--accent-dark);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ---- Navbar: force a light bar regardless of Quarto's data-bs-theme ---- */
+.navbar,
+.navbar[data-bs-theme="dark"] {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid var(--rule);
+  --bs-navbar-color: var(--ink);
+  --bs-navbar-hover-color: var(--accent);
+  --bs-navbar-active-color: var(--accent);
+  --bs-navbar-brand-color: var(--ink);
+  --bs-navbar-brand-hover-color: var(--accent);
+}
+.navbar .navbar-title,
+.navbar .nav-link,
+.navbar .quarto-navbar-tools a { color: var(--ink) !important; }
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: color 0.15s ease;
+}
+.navbar-brand:hover .navbar-title,
+.navbar-brand:focus-visible .navbar-title { color: var(--accent) !important; }
+.navbar-brand:hover,
+.navbar-brand:focus-visible { text-decoration: none; }
+.navbar .nav-link:hover,
+.navbar .nav-link:focus-visible,
+.navbar .nav-link.active { color: var(--accent) !important; }
+/* mobile hamburger + search icons visible on white */
+.navbar .navbar-toggler { border-color: var(--rule); }
+.navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%231f2328' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar #quarto-search .aa-DetachedSearchButtonIcon,
+.navbar .bi { color: var(--ink) !important; }
+
+/* ---- Hero ---- */
 .hero {
   text-align: center;
-  padding: 3rem 1rem 2rem 1rem;
-  max-width: 700px;
+  padding: 3.5rem 1rem 1.5rem;
+  max-width: 720px;
   margin: 0 auto;
 }
-
 .hero .profile-img {
   width: 180px;
   height: 180px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1.5rem;
-  border: 3px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid var(--rule);
+  box-shadow: 0 2px 18px rgba(0, 0, 0, 0.08);
 }
-
 .hero .name {
   display: block;
   font-size: 2.2rem;
-  letter-spacing: 0.05em;
-  margin-bottom: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.5rem;
 }
-
+.hero .tagline {
+  display: block;
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
 .hero .position {
   display: block;
-  font-size: 1.1rem;
-  margin-bottom: 0.3rem;
-  color: #93a1a1;
+  font-size: 1.05rem;
+  color: var(--ink);
+  margin-bottom: 0.2rem;
 }
-
 .hero .affiliation {
   display: block;
   font-size: 1rem;
-  color: #839496;
-  margin-bottom: 1.2rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
 }
-
-.hero .contact-links {
+.hero .credential {
+  display: block;
   font-size: 0.95rem;
+  color: var(--muted);
+  margin-bottom: 1.1rem;
 }
+.hero .contact-links { font-size: 0.95rem; }
+.hero .contact-links a { margin: 0 0.2rem; }
 
-.hero .contact-links a {
-  color: #93a1a1;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.hero .contact-links a:hover {
-  color: #2aa198;
-}
-
-/* About section */
+/* ---- About ---- */
 .about {
-  max-width: 700px;
-  margin: 0 auto 3rem auto;
+  max-width: 720px;
+  margin: 0 auto 3rem;
   padding: 0 1rem;
   line-height: 1.7;
+  font-size: 1.02rem;
 }
 
-/* Section headings */
+/* ---- Section headings ---- */
 h2 {
-  margin-top: 3rem;
+  margin-top: 3.25rem;
   margin-bottom: 1.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--accent);
+  font-weight: 600;
 }
-
+h3 { margin-top: 2rem; font-weight: 600; }
 h4 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.9rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
-/* Links */
-a {
-  color: #2aa198;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
+/* ---- Publication list rhythm ---- */
+#publications li { margin-bottom: 0.7rem; line-height: 1.6; }
+#datasets li, #teaching li { margin-bottom: 0.5rem; line-height: 1.6; }
 
-a:hover {
-  color: #268bd2;
-}
-
-/* Download link button */
+/* ---- Download CV button ---- */
 .download-link {
   display: inline-block;
-  padding: 0.5rem 1.2rem;
-  background: rgba(42, 161, 152, 0.15);
-  border: 1px solid rgba(42, 161, 152, 0.3);
+  padding: 0.55rem 1.3rem;
+  background: var(--accent);
+  color: #fff;
   border-radius: 4px;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  font-weight: 500;
   margin-bottom: 1.5rem;
-  transition: all 0.2s ease;
+}
+.download-link:hover,
+.download-link:focus-visible {
+  background: var(--accent-dark);
+  color: #fff;
+  text-decoration: none;
 }
 
-.download-link:hover {
-  background: rgba(42, 161, 152, 0.25);
-  border-color: rgba(42, 161, 152, 0.5);
-}
-
-/* PDF iframe */
+/* ---- PDF iframe ---- */
 iframe {
+  border: 1px solid var(--rule);
   border-radius: 4px;
-  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
 }
 
-/* Navbar tweaks */
-.navbar {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+/* ---- Dashboard cards ---- */
+.dash-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.1rem;
+  margin: 1.5rem 0 2.5rem;
 }
-
-.nav-link:hover {
-  color: #2aa198 !important;
+.dash-card {
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 1.15rem 1.25rem;
+  background: #fff;
+  transition: box-shadow 0.15s ease, border-color 0.15s ease;
 }
-
-/* Footer */
-.nav-footer {
-  border-top: 1px solid rgba(255, 255, 255, 0.05) !important;
+.dash-card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+  border-color: #cfd4d8;
 }
-
-/* Scrollbar */
-::-webkit-scrollbar {
-  width: 6px;
+.dash-card h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 1.05rem;
+  color: var(--ink);
 }
+.dash-card h4 .anchorjs-link { display: none !important; }
+.dash-card p { font-size: 0.9rem; line-height: 1.55; margin-bottom: 0.7rem; }
+.dash-card .dash-meta { display: block; color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+.dash-card .dash-launch { font-weight: 600; font-size: 0.9rem; }
 
-::-webkit-scrollbar-track {
-  background: transparent;
-}
+/* ---- Footer ---- */
+.nav-footer { border-top: 1px solid var(--rule); }
 
-::-webkit-scrollbar-thumb {
-  background: rgba(147, 161, 161, 0.3);
-  border-radius: 3px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: rgba(147, 161, 161, 0.5);
-}
-
-/* Responsive adjustments */
+/* ---- Responsive ---- */
 @media (max-width: 768px) {
-  .hero .name {
-    font-size: 1.8rem;
-  }
-
-  .hero .profile-img {
-    width: 140px;
-    height: 140px;
-  }
+  .hero .name { font-size: 1.8rem; }
+  .hero .profile-img { width: 140px; height: 140px; }
+  iframe { height: 520px !important; }
 }

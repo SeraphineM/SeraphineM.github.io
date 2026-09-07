@@ -15,12 +15,18 @@ image: Teaching.png
 
 #### Online methods workshops
 
+- [*ekomex* 2027](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models" (upcoming)
 - [*ekomex* 2026](https://afww.uni-konstanz.de/en/komex/konstanz-methods-excellence-workshops), University of Konstanz: "Introduction to AI-driven Text Analysis" & "Fine-Tuning Large Language Models"
+- [AI-Assisted Content Analysis](https://instats.org/seminar/ai-assisted-content-analysis) (with K. Benoit), Instats platform, 2026
 - [AI-Powered Qualitative Analysis in R 2.0](https://doi.org/10.61700/X8FWPVNRRWHT12277) (with K. Benoit), Instats platform, 2026
 - [Tuning LLMs for Text Analysis](https://doi.org/10.61700/YW2IS8JTEGGA12277), Instats platform, 2026
 - [Using AI for Text Analysis: An Introduction](https://doi.org/10.61700/TI5UEXUI5ILRD1663), Instats platform, 2025
 - [Using AI for Text Analysis: Advanced Applications](https://doi.org/10.61700/NQUMT3VU2ZQ3K1816), Instats platform, 2025
 - [Quarto in RStudio: Writing Reproducible & Dynamic Research Papers](https://doi.org/10.61700/PDEAAEFQ62N681556), Instats platform, 2024
+
+#### Free tutorials and webinars
+
+Through [QuantLab Sharezone](https://quantilab.github.io/sharezone/), I contribute free educational resources on quantitative methods and computational techniques. The hub offers step-by-step guides, recorded webinars, and downloadable materials from QuantLunch sessions, covering topics such as text analysis with large language models (using R packages like `quallmer` and `quanteda.llm`), reproducible research with Quarto and RStudio, GitHub collaboration, and building academic websites.
 
 #### Supervision
 

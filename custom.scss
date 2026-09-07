@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Single teal accent, applied consistently
+$primary:                    #0f766e;
+$link-color:                 #0f766e;
+$link-hover-color:           #0b5c56;
+$link-decoration:            none;
+$link-hover-decoration:      underline;
+
+// Light navbar with dark text
+$navbar-bg:                  #ffffff;
+$navbar-fg:                  #1f2328;
+$navbar-light-active-color:  #0f766e;
+$navbar-light-hover-color:   #0f766e;
+$navbar-light-brand-color:   #1f2328;
+$navbar-light-brand-hover-color: #0f766e;
+
+$body-color:                 #1f2328;
+
+/*-- scss:rules --*/
+
+// Visible keyboard focus everywhere
+a:focus-visible,
+button:focus-visible,
+.btn:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.55);
+  outline-offset: 2px;
+  border-radius: 2px;
+}

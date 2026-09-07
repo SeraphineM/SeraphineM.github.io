@@ -2,25 +2,38 @@
 title: "Datasets"
 ---
 
-\
+## Interactive dashboards
 
-## ShinyApps and interactive dashboards to explore our datasets
+::: {.dash-grid}
 
-ShinyApps and dashboards are great tools to explore and
-interactively work with new datasets which is why we developed the
-following applications along with our datasets:
+::: {.dash-card}
+#### [Illiberal Speech Index (ISI) Dashboard](https://validation.shinyapps.io/speeches/)
 
--   The [TOSCO ShinyDashboard](https://tosco.shinyapps.io/data/) (put together with the TOSCO team)
-    provides data on ownership of Internet service providers (ISPs) and
-    several applications to explore these ownership structures and state
-    control over ISPs.
+Companion to the forthcoming *Comparative Political Studies* article "Listening to Leaders". Maps illiberal rhetoric across 161,698 paragraphs from 28,232 speeches by 452 political leaders in 123 countries (1989–2024), each scored from 0 (liberal) to 10 (illiberal). Filter by country and period, switch between peak ("high water mark") and mean measures, overlay the Electoral Democracy Index, and hover any point to read the underlying speech excerpt. Also links to the complete replication package.
 
--   The [ERT ShinyApp](https://episodes.shinyapps.io/validation/)
-    (put together with Sebastian Hellmeier) provides several interactive
-    applications allowing users to flexibly adjust the parameters of the ERT
-    dataset (see below) and test their validity.
+[with Dean Schafer and Carsten Q. Schneider]{.dash-meta}
+[Launch dashboard →](https://validation.shinyapps.io/speeches/){.dash-launch}
+:::
 
-\
+::: {.dash-card}
+#### [TOSCO Dashboard](https://tosco.shinyapps.io/data/)
+
+Data on the ownership of Internet service providers (ISPs) worldwide, with tools to explore ownership structures and the degree of state control over ISPs.
+
+[with the TOSCO team]{.dash-meta}
+[Launch dashboard →](https://tosco.shinyapps.io/data/){.dash-launch}
+:::
+
+::: {.dash-card}
+#### [ERT Validation App](https://episodes.shinyapps.io/validation/)
+
+Lets users flexibly adjust the parameters of the Episodes of Regime Transformation (ERT) dataset and test the validity of the resulting episodes.
+
+[with Sebastian Hellmeier]{.dash-meta}
+[Launch app →](https://episodes.shinyapps.io/validation/){.dash-launch}
+:::
+
+:::
 
 ## Episodes of Regime Transformation (ERT)
 

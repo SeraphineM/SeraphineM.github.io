@@ -13,8 +13,7 @@ website:
 
   navbar:
     pinned: true
-    align: center
-    style: "docked"
+    background: "#ffffff"
     right:
       - text: "CV"
         href: "#cv"
@@ -29,9 +28,7 @@ website:
 
 format:
   html:
-    theme: solar
+    theme: [litera, custom.scss]
     css: styles.css
     toc: false
     smooth-scroll: true
-
-
