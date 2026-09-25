@@ -92,6 +92,7 @@ Co-Principal Investigator
 
 ## Awards & Fellowships
 
+- UniMelb Faculty of Arts Dean's Award for Excellence in Early Career Research (2026)
 - Visiting Researcher, UC Berkeley, Department of Political Science (August–September 2017)
 - Academic Achievement Award for First-Year Doctoral Students, CEU Budapest (2015)
 
@@ -102,9 +103,9 @@ Co-Principal Investigator
 
 ## Peer-Reviewed Journal Articles
 
-[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,841 citations | h-index: 22 | i10-index: 26
+[Google Scholar](https://scholar.google.com/citations?user=Bp3m4N0AAAAJ): ~4,890 citations | h-index: 22 | i10-index: 28
 
-- Maerz, S.F., Schafer, D.G., & Schneider, C.Q. "Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline." *Comparative Political Studies*, forthcoming.
+- Maerz, S.F., Schafer, D.G., & Schneider, C.Q. "Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline." [*Comparative Political Studies*](https://journals.sagepub.com/doi/10.1177/00104140261487983), Online First, 2026.
 - Maerz, S.F. "How practices of digital authoritarianism harm democracy." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2553826), 33(1), 163–190, 2026.
 - Garbe, L., Maerz, S.F., & Freyburg, T. "Authoritarian collaboration and repression in the digital age." [*Democratization*](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2442377), 33(1), 85–108, 2026.
 - Schafer, D.G., Maerz, S.F., Schneider, C.Q., & Krasnokutskaya, A. "'Strongmen' Don't Redistribute: Illiberal Leaders on the Right and Worsening Economic Inequality." [*Politics and Governance*](https://www.cogitatiopress.com/politicsandgovernance/article/view/9812), 13, 1–24, 2025.
@@ -223,6 +224,7 @@ Co-Principal Investigator
 
 ## Invited Talks and Events
 
+- ANU, School of Politics and International Relations (Sept. 2026): Guest lecture on authoritarian informationalism, "Democracy and Dictatorship" seminar
 - [FIRSA Webinar](https://firsa.eu/posts/llms_webinar/) (June 2026): "Quantitative Text Analysis in the Age of LLMs"
 - SICSS Melbourne, Australian Internet Observatory (June 2026): LLMs for Text Analysis workshop
 - ANU, School of Politics and International Relations (June 2026): LLM-assisted methods workshop; SPIR seminar series
